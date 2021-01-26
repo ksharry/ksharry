@@ -7,10 +7,10 @@
 
 :e-mail: Connect with me:
 
-![image](https://img.icons8.com/android/24/000000/linkedin.png)
+![linkedin](https://img.icons8.com/android/24/000000/linkedin.png)
 
 :checkered_flag: Languages and Tools:
-
+![odoo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Odoo_logo.svg/320px-Odoo_logo.svg.png)
 
 :hotsprings: Latest YouTube Videos
 
