@@ -13,7 +13,7 @@
 
 ![odoo](https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg)
 
-<img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg" width "375"/>
+<img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg" width = "300" height = "200" alt="图片名称" align=center />
 
 :hotsprings: Latest YouTube Videos
 
