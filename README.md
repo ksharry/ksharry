@@ -13,9 +13,6 @@
 
 <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg" width = "300" height = "200" alt="odoo" align=center />
 
-:hotsprings: Latest YouTube Videos
-
-Nah
 
 📈 Github Stats
 
