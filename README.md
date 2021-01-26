@@ -11,7 +11,7 @@
 
 :checkered_flag: Languages and Tools:
 
-![odoo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Odoo_logo.svg/320px-Odoo_logo.svg.png)
+![odoo](https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg)
 
 :hotsprings: Latest YouTube Videos
 
