@@ -2,4 +2,5 @@
 
 - 🔭 I’m Homebrewer
 - 🌱 I’m odooer
-- 👯 I’m hiker
+- :mount_fuji: I’m hiker
+- 🥅 I'm co
