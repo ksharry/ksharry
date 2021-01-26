@@ -7,7 +7,7 @@
 
 :e-mail: Connect with me:
 
-<img src="https://img.icons8.com/android/24/000000/linkedin.png"/>
+![image](https://img.icons8.com/android/24/000000/linkedin.png)
 
 :checkered_flag: Languages and Tools:
 
