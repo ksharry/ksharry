@@ -7,9 +7,7 @@
 
 :e-mail: Connect with me:
 
-![image](https://img.icons8.com/android/24/000000/linkedin.png;src="https://www.linkedin.com/in/harry-chang-01b626107/")
-
-<img align="left" src="https://img.icons8.com/android/24/000000/linkedin.png" data-canonical-src="https://www.linkedin.com/in/harry-chang-01b626107/" style="max-width:100%;">
+![image](https://img.icons8.com/android/24/000000/linkedin.png")
 
 :checkered_flag: Languages and Tools:
 
