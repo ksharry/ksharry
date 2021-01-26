@@ -8,7 +8,7 @@
 :e-mail: Connect with me:
 
 ![image](https://img.icons8.com/android/24/000000/linkedin.png)
-![image](http://baidu.com)  
+<img align="left" src="https://www.linkedin.com/in/harry-chang-01b626107/" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" style="max-width:100%;">
 
 :checkered_flag: Languages and Tools:
 
