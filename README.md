@@ -7,8 +7,9 @@
 
 🙋‍♂️ Connect with me:
 
-👨‍💻 Languages and Tools:
-python odoo visualstudio linux docker nginx django flask git jenkins kubernetes postgresql postman
+
+:checkered_flag: Languages and Tools:
+
 
 📺 Latest YouTube Videos
 
