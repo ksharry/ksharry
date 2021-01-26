@@ -5,4 +5,4 @@
 - :mount_fuji: I’m Hiker
 - :books: I'm Consultant
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksharry&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksharry)](https://github.com/ksharry/github-readme-stats)
