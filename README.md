@@ -8,7 +8,7 @@
 :e-mail: Connect with me:
 
 ![image](https://img.icons8.com/android/24/000000/linkedin.png)
-
+[![https://img.icons8.com/android/24/000000/linkedin.png]](http://baidu.com)
 :checkered_flag: Languages and Tools:
 
 
