@@ -1,11 +1,11 @@
 ### Hi there , I'm Harry 👋
 
-- :beers: Homebrewer
+- :beer: Homebrewer
 - :purple_heart: Odooer
 - :mount_fuji: Hiker
 - :books: Consultant
 
-:e-mail: Connect with me:
+:mailbox_with_mail:: Connect with me:
 
 ![linkedin](https://img.icons8.com/android/24/000000/linkedin.png)
 
