@@ -5,13 +5,13 @@
 - :mount_fuji: I’m Hiker
 - :books: I'm Consultant
 
-🙋‍♂️ Connect with me:
+:e-mail: Connect with me:
 
 
 :checkered_flag: Languages and Tools:
 
 
-📺 Latest YouTube Videos
+:hotsprings: Latest YouTube Videos
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksharry)](https://github.com/ksharry/github-readme-stats)
