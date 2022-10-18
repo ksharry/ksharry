@@ -1,9 +1,9 @@
 ### Hi there , I'm Harry 👋
 
-- :beer: Homebrewer
-- :mount_fuji: Hiker
-- :purple_heart: Odooer
 - :books: ERP Consultant
+- :purple_heart: Odooer
+- :mount_fuji: Hiker
+- :beer: Homebrewer
 
 :checkered_flag: Languages and Tools:
 
