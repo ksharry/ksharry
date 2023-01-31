@@ -2,7 +2,6 @@
 
 - :books: ERP Consultant
 - :purple_heart: Odooer
-- :mount_fuji: Hiker
 - :beer: Homebrewer
 
 :checkered_flag: Languages and Tools:
