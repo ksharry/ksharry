@@ -1,0 +1,12 @@
+1. 銀河系
+   + 恆星/行星
+   + 四顆類地行星（水星、金星，地球和火星），兩顆氣態巨行星（木星和土星）和兩顆冰巨行星（天王星和海王星）
+   + 太陽系2光年(獵戶臂)、(銀河系10萬(人馬座A)、黑洞、仙女仙系)、(室女座超新星團、長蛇半人馬、孔雀印地安、巨大引力源)，黑洞暗物質
+   + 一光年就大約為94600億公里
+   + 近紅外線/中紅外線，越藍花紋越多越年輕。
+   + 望遠鏡-[網址](https://www.youtube.com/watch?v=toK9rcrRzlk)-
+     + [米斯特拉爾星雲](https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ)
+     + [史蒂芬五重星系](https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A?page=8&amp;filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97)
+     + [史蒂芬五重星系-hubble](https://hubblesite.org/contents/media/images/2009/25/2606-Image.html)
+     + [仙女座星系](https://www.flickr.com/photos/gsfc/7309213060)
+2. 量子糾纏:多遠距離都能連動。
