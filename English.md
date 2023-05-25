@@ -6,4 +6,4 @@
 
 #### 片語表
 1. take (sth) with a grain of salt  保持懷疑。
-2. 
+2. A-list 知名的
