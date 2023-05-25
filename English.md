@@ -51,3 +51,15 @@
    + Adj. + Conj. + Adj. - effective but time-consuming
    + Adv. + Adj. + Prep.片(or Inf)\
 3. 名詞片語
+   + Art. + N. - a man
+   + N. + Conj. + N. a polo shirt and jeans
+   + N. + N. - 複合名詞 - convenience store
+   + Art. + Adj. + N. - a risky plan
+   + Art. + Adj. + Adj. + N. - a young little girl
+   + Art. + Adv. + Adj. + N. - a finacially risky plan
+   + N. + Adj. - something dangerous
+   + N. + Adv. + Adj. - something extremely dangerous
+   + N. + Adj.子句 - something that she talked about
+   + Art. + N. + Prep.片 - the excuse for being late
+   + Art. + N. + Inf. - a room to hold the meeting
+4. 
