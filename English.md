@@ -9,8 +9,8 @@
 1. take (sth) with a grain of salt  保持懷疑。
 2. A-list 知名的
 
-#### 詞性
-文法 & 閱讀 ⎮ 01 詞性概念 ⎮ Grammar & Reading ⎮ 怕渴英文 - [影片](https://www.youtube.com/watch?v=VfGyEVtZ0ec)
+#### 怕渴英文-文法與閱讀-[影片](https://www.youtube.com/watch?v=VfGyEVtZ0ec&list=PLOB7G19x6JpNCV82Rby4SjL706Qm7Ui8s&index=2)
+###### 01 詞性概念 
 1. 名詞n
    + 做S、O、C使用
    + 介係詞後面做O使用
@@ -34,4 +34,16 @@
    + 動態的語意，作為主詞使用
 8. 不定詞Inf To V
    + 動態的語意，作為主詞使用
-9. 
+###### 02 片語概念 
++ 第一部分
+  1. 形容詞片語 
+     + Adv.+Adj. incredibly expensive
+     + Adv.+Adj.+Prep.+N. so afraid of ghosts
+  2. 名詞片語 
+     + Art.+Adj.+N. a degerouse animal
+  3. 介系詞片語 
+     + Prep.+Art.+Adj.+N. In the tall building
+  4. 動詞片語 
+     + V.+N.+Adv. give a speech confidently
+     + Aux.+V.+Prep.+N. can stay near the airport
+
