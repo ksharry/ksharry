@@ -35,15 +35,19 @@
 8. 不定詞Inf To V
    + 動態的語意，作為主詞使用
 ###### 02 片語概念 
-+ 第一部分
-  1. 形容詞片語 
-     + Adv.+Adj. incredibly expensive
-     + Adv.+Adj.+Prep.+N. so afraid of ghosts
-  2. 名詞片語 
-     + Art.+Adj.+N. a degerouse animal
-  3. 介系詞片語 
-     + Prep.+Art.+Adj.+N. In the tall building
-  4. 動詞片語 
-     + V.+N.+Adv. give a speech confidently
-     + Aux.+V.+Prep.+N. can stay near the airport
-
+1. 介系詞片語
+   + Prep. + N. - about three thousand
+   + Prep. + N. + Conj. + N. - between band and office 
+   + Prep. + Ger. - by giving a call
+   + 不可以接Inf.
+   + Adv. + Prep. + N. - right next to door
+   + Prep. + N. + Prep. + N. - in the box on the shelf
+   + Prep. + Ger. + Prep. + Ger. - by giving a call before visiting
+2. 形容詞片語 
+   + Adv. + Adj. - so careful
+   + Adj. + Adv. - careful enough
+   + Adj. + Inf. - ready to give a presentation
+   + Adj. + Prep.片 - proud of your achievement
+   + Adj. + Conj. + Adj. - effective but time-consuming
+   + Adv. + Adj. + Prep.片(or Inf)\
+3. 名詞片語
