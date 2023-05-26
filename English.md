@@ -49,7 +49,6 @@
    + Adj. + Inf. - ready to give a presentation
    + Adj. + Prep.片 - proud of your achievement
    + Adj. + Conj. + Adj. - effective but time-consuming
-   + Adv. + Adj. + Prep.片(or Inf)\
 3. 名詞片語
    + Art. + N. - a man
    + N. + Conj. + N. a polo shirt and jeans
@@ -62,4 +61,44 @@
    + N. + Adj.子句 - something that she talked about
    + Art. + N. + Prep.片 - the excuse for being late
    + Art. + N. + Inf. - a room to hold the meeting
-4. 
+4. 動詞片語
+   + V.I. + Prep.介 - i agree with your idea
+   + V.T. + N. - state your opinion 
+   + V. + Ger. - avoid eating anything spicy
+   + V. + Inf - refuse to work overtime
+   + Adv. + V. + N. - firmly state your opinion
+   + V. + N. + Adv. - state your opinion directly 
+   + V. + N. + Inf. - take puclic transit to save money
+   + Aux. + VR - We should stop all kinds of whale hunting.
+   + Be + Ving - 進行式
+   + have + Vp.p. - 完成式
+   + be + vp.p. - 被動式
+   + phrasal V. - 片語動詞 - she gave up dancing at thirteen
+   + V. + Conf. + V. - fell and sprained his ankle 
+5. 動名詞片語
+   + 同一組
+     + Ger. + N. - studying German
+     + Ger. + Inf. - refusing to study German
+     + Ger. + Ger. - consider studying German
+   + 同一組
+     + Adv. + Ger. - not working
+     + Ger. + Adv. - working late 
+     + Ger. + Inf. - reading to increase your vocabulary
+     + Ger. + Perp.片 - having dinner with some old friends
+     + Ger. + Conj. + Ger. - being sick but still going to work  
+6. 不定詞片語
+   + 同一組,當受詞用結構
+     + Inf. + N. - to clean conference room
+     + Inf. + Ger. - to avoid being harmed
+     + Inf. + Inf. - to decide to accept this job or not 
+   + 同一組,附加副詞
+     + Adv. + Inf. - not to call
+     + Inf. + Adv. - to call immediately
+     + Inf. + Inf. - to call to confirm the order  
+     + Inf. + Perp.片 - to call between 10 to 12
+###### 03 句型概念
+1. S + V
+   + We gather every Monday morning to discuss plans for the week
+   + Bus fares increasea in line with gasoline prices.
+   + Any is going to Los Angelas on business this week
+2. S + V + C
