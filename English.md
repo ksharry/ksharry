@@ -97,8 +97,29 @@
      + Inf. + Inf. - to call to confirm the order  
      + Inf. + Perp.片 - to call between 10 to 12
 ###### 03 句型概念
-1. S + V
+1. 概念
+   + 簡單句一定有動詞
+   + Be動詞後面是補語
+2. S + V - 不及物動詞
    + We gather every Monday morning to discuss plans for the week
    + Bus fares increasea in line with gasoline prices.
    + Any is going to Los Angelas on business this week
-2. S + V + C
+3. S + V + C - 連綴動詞
+   + The report was completed in a timely manner.
+   + Watching movie here is more comfortable than at a cinema.
+   + Climate change has become a major global environmental issue.
+4. S + V + O - 及物動詞
+   + The information counter prodided local map for visitors
+   + Many participants in the training program showed some improvement
+   + She couldn't understand her mother-in-law because of her strong accent
+5. S + V + O + C - 不完全及物動詞
+   + I consider Amanda my best friend
+   + Some left the lights on overnight
+   + The repairman thought himself strong enough to move the refrigerator
+6. S + V + O + O - 授予動詞
+   + His girlfriend bought him a PS5 for his birthday
+   + We will give each participant a brochure
+   + You must show the conductor your ticket before boarding
+7. 複合句型
+###### 03 句型概念
+1. 概念
