@@ -9,6 +9,9 @@
 1. take (sth) with a grain of salt  保持懷疑。
 2. A-list 知名的
 
+#### 英文與中文差異
+1. 主、動、受、地、時
+
 #### QQ  詞性特性 - [形容詞](https://qqeng.net/tw/Learning/adjectives-learning-basic-english-grammar-what-is-an-adjective/)、[副詞](https://qqeng.net/tw/Learning/adverbs-learning-basic-english-grammar-what-is-an-adverb/)
 1. 形容詞
    + 描述性形容詞
