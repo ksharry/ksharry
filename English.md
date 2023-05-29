@@ -8,6 +8,13 @@
 #### 片語表
 1. take (sth) with a grain of salt  保持懷疑。
 2. A-list 知名的
+3. make up - 編造、和好
+4. carry out - 執行 - [網址](https://www.youtube.com/watch?v=BLxHSH5FtkU)
+5. warm up - 暖身
+6. turn up - 調大點/出現/
+7. sort out - 挑選出/分類
+8. take off - 起飛/脫下
+9. ware out - 毀損/耗盡/使筋疲力盡
 
 #### 英文與中文差異
 1. 主、動、受、地、時
