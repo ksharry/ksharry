@@ -164,3 +164,23 @@
    + Wh- + V.
 6. 疑問詞作主詞
  
+###### 04 祈使句型
+1. 祈使句型概念
+   + 省略主詞
+   + 原型動詞開頭
+2. 一般動詞句型
+   + Close the door 
+3. be 動詞句型
+   + Be quiet -形容詞
+   + Be a good custmer - 名詞
+4. do not 句型
+   + Don't come here
+5. let’s 句型
+   + let us 的縮寫
+   + let's continue the story
+6. please 句型
+   + 更有禮貌
+   + please fill out this form
+7. 強調句型
+   + 肯定-always-永遠要
+   + 否定-never-絕對不要
