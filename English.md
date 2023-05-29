@@ -145,5 +145,22 @@
    + We will give each participant a brochure
    + You must show the conductor your ticket before boarding
 7. 複合句型
-###### 03 句型概念
-1. 概念
+###### 04 疑問句型
+1. 疑問句型概念
+2. 是非問句 
+   + BE V./AUX. S. + V.
+   + 如沒有上述動詞，則加入Do
+   + 完成式Have為Aux.
+   + 助動詞Do後面要加原型動詞，不具備語意
+3. 否定問句
+   + not放句中，比較正式
+4. 附加問句
+   + Your car is still at the repaire shop, isn't it? 
+   + 前面是否定，後面就要用肯定。
+5. 資訊問句 
+   + Wh- + BE V./Aux. S. + V.
+   + 詢問程度的副詞,how much
+   + 疑問詞做主詞
+   + Wh- + V.
+6. 疑問詞作主詞
+ 
