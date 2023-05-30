@@ -205,5 +205,19 @@
    + Bugdget cuts have made doing their jobs difficult for inspectors.
    + Bugdget cuts have made it difficult for inspectors to do their jobs
 
-###### 06 虛主詞＆虛受詞
-1. 概念
+###### 07 there be 句型
+1. 使用時機
+   + 存在/空間；跟Have的屬於不同
+2. 動詞數量
+   + 就近原則 there is / there are
+3. 時態變化
+   + 完成式there has been
+   + 未來式there will be/there is going to be
+4. 否定句＆疑問句
+   + 否定 no/any
+   + 疑問句 助動詞往前
+5. 主詞位置
+   + there 為虛主詞
+6. 常見錯誤
+   + there限定位置
+   + 雙動詞的錯誤
