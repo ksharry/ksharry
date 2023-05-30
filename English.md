@@ -9,12 +9,13 @@
 1. take (sth) with a grain of salt  保持懷疑。
 2. A-list 知名的
 3. make up - 編造、和好
-4. carry out - 執行 - [網址](https://www.youtube.com/watch?v=BLxHSH5FtkU)
-5. warm up - 暖身
-6. turn up - 調大點/出現/
-7. sort out - 挑選出/分類
-8. take off - 起飛/脫下
-9. ware out - 毀損/耗盡/使筋疲力盡
+4. turn down - 拒絕/駁回
+5. carry out - 執行 - [網址](https://www.youtube.com/watch?v=BLxHSH5FtkU)
+6. warm up - 暖身
+7. turn up - 調大點/出現/
+8. sort out - 挑選出/分類
+9. take off - 起飛/脫下
+10. ware out - 毀損/耗盡/使筋疲力盡
 
 #### 英文與中文差異
 1. 主、動、受、地、時
@@ -194,5 +195,15 @@
 
 ###### 06 虛主詞＆虛受詞
 1. 概念&使用時機
+   + 避免主詞拖得太長，動詞太晚出現。
 2. 虛主詞
+   + Turn down the invitation seems rude
+   + It seems rude to turn down the invitation
+   + 後面只能不定詞片語或名詞子句
+   + S + V + that + 名詞子句 
 3. 虛受詞
+   + Bugdget cuts have made doing their jobs difficult for inspectors.
+   + Bugdget cuts have made it difficult for inspectors to do their jobs
+
+###### 06 虛主詞＆虛受詞
+1. 概念
