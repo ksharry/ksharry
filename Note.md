@@ -24,10 +24,6 @@
 3. 肉眼看得到的星系-[網址](https://starwalk.space/zh-Hant/news/naked-eye-star-clusters-list)
 4. 牛郎、織女、天津 -夏季大三角-[網址](https://pansci.asia/archives/84063)-[網址](http://roofastro.blogspot.com/2018/08/blog-post_16.html)
 5. 台灣夜空介紹-NEXT
-
-## 相關
-1. 曼德拉效益-誰串改了記憶
-2. 
    
 ## 歷史相關
 1. 亞特蘭提斯，消失的文明，雅典，摩洛哥、南極，撒哈拉之眼、直徑23公里。
@@ -229,3 +225,4 @@
    + 運河推測發電用
    + 頂上純金發光用。
    + 復活法老跟傳送法老的裝置
+9. 曼德拉效益-誰串改了記憶
