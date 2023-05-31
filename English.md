@@ -192,7 +192,6 @@
 7. 強調句型
    + 肯定-always-永遠要
    + 否定-never-絕對不要
-
 ###### 06 虛主詞＆虛受詞
 1. 概念&使用時機
    + 避免主詞拖得太長，動詞太晚出現。
@@ -204,7 +203,6 @@
 3. 虛受詞
    + Bugdget cuts have made doing their jobs difficult for inspectors.
    + Bugdget cuts have made it difficult for inspectors to do their jobs
-
 ###### 07 there be 句型
 1. 使用時機
    + 存在/空間；跟Have的屬於不同
@@ -221,3 +219,23 @@
 6. 常見錯誤
    + there限定位置
    + 雙動詞的錯誤
+###### 08 連接詞 ＆ 副詞子句
+1. 對等連接詞
+   + for/and/nor/but/or/yet/so - fanboys
+   + 前後可不同時態
+2. 平行對等原則
+   + adj and adj 
+   + adv and adv
+3. 複合對等連接詞
+   + both a and b 
+   + not only ... but also
+   + either a or b 
+   + neither a nor b 
+4. 對等連接詞 v.s. 轉折副詞
+   + 句點後大寫的是副詞
+5. 從屬連接詞 & 副詞子句
+   + 從屬開頭是副詞子句(while/after)
+6. 副詞子句常見錯誤
+   + although/but 的文法錯誤
+7. 從屬連接詞 v.s. 轉折副詞 
+   + 轉折though
