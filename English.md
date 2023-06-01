@@ -239,3 +239,29 @@
    + although/but 的文法錯誤
 7. 從屬連接詞 v.s. 轉折副詞 
    + 轉折though
+###### 09 形容詞子句
+1. 子句功能
+   + 較大範圍 N. + adj - The women who is standing by the door  
+   + 先行詞 + 關代
+   + 形容詞子句前方一定有名詞進行修飾
+   + 必須準守就近原則
+2. 關係代名詞
+3. 主格關代
+   + I finally killed the mosquito. 
+   + It had annoyed me all night.
+   + I finally killed the mosquito, which had annoyed me all night.
+4. 受格關代 (動詞受詞)
+   + You like a color.
+   + You can choose a color.
+   + You can choose a color that you like.
+   + 受格關代可以刪除
+5. 受格關代 (介系詞受詞)
+6. 所有格關代
+   + I once lived next door to an old woman. 
+   + Her son is now a famous rock star.
+   + i once lived next door to an old woman whose son is now a famous rock star.
+   + whose 左右兩邊都有名詞就是所有格關代
+7. 子句指涉整體事件
+   + 如果形容整個子句，一定有一個逗點，且為Which，但也要判斷語意
+8. 如何辨別子句範圍
+   + 受格式後面往前翻，而且可以隱藏。
