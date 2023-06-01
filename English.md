@@ -282,7 +282,20 @@
    + for while 可換為why
    + 可省略
 5. 限定 & 非限定用法
-   + 限定用法 - N. Adj.子句 - 限定什麼範圍
-   + 非限定用法 - N. , Adj.子句, ____ - 補充用語
+   + 限定用法 - N. Adj.子句 - 先行詞非獨一無二
+   + 非限定用法 - N. , Adj.子句, ____ - 先行詞是獨一無二
+   + 逗點前可以修飾一句或一個名詞，如果沒有逗點就一定是指修飾名詞
 6. 所有格關代替換
-7. 搭配量詞片語
+   + of which 可以寫whose
+   + I know a comedy 
+   + Its ending will definitely make you cry
+   + I know a comedy **whose** ending will definitely make you cry
+   + I know a comedy the ending **of which** will definitely make you cry  - 非常正式
+   + I know a comedy **of which** the ending will definitely make you cry  - 非常正式
+7. 搭配量詞/比較級片語
+   + 數量詞 + of + which/whom
+   + 都一定非限定用法，要有逗點
+   + 比較詞 + of + which/whom
+   + The cashier dropped a box of eggs. 
+   + All of them broke.
+   + The cashier dropped a box of eggs all of which broke.
