@@ -265,3 +265,24 @@
    + 如果形容整個子句，一定有一個逗點，且為Which，但也要判斷語意
 8. 如何辨別子句範圍
    + 受格式後面往前翻，而且可以隱藏。
+   + 主格或受格關代，子句內文法必不完整。
+###### 10 形容詞子句 II
+1. 介詞前移
+   + 子句的介詞可以前移
+   + The topic in which Michael is most interested is electrical engineering
+2. 關係副詞 where
+   + 因為前提介系詞，因此子句內不會有多餘的介系詞
+   + 省略的如果是地點in which 可以變為where
+   + 子句的there 也可以變為where往前提
+3. 關係副詞 when
+   + 省略的如果是時間，on which 可以變成when
+   + 可省略
+4. 關係副詞 why
+   + 先行詞是reason 
+   + for while 可換為why
+   + 可省略
+5. 限定 & 非限定用法
+   + 限定用法 - N. Adj.子句 - 限定什麼範圍
+   + 非限定用法 - N. , Adj.子句, ____ - 補充用語
+6. 所有格關代替換
+7. 搭配量詞片語
