@@ -17,6 +17,21 @@
 8. sort out - 挑選出/分類
 9. take off - 起飛/脫下
 10. ware out - 毀損/耗盡/使筋疲力盡
+11. turn down - 關閉
+12. work out - 解決/算出/實現
+13. set up - 建立/安排 
+14. turn over - 把..翻轉/移交 
+15. put in - 提交/放入 
+16. move in - 搬進 -
+17. back off - 後退/減輕/卸下 
+18. get down - 下來/吞下/趴下
+19. hold up - 舉起/阻擋/強劫 
+20. move on - 前進/離開
+21. break up - 打碎/結束
+22. come along - 出現/陪伴
+23. go along - 支持/前進
+24. find out - 找出/查明
+25. take over - 接管/接收
 
 #### 英文與中文差異
 1. 主、動、受、地、時
