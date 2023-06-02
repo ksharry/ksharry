@@ -5,6 +5,42 @@
 4. 英法戰爭改變地位
 5. 英文會普及是因為英國的大範圍殖民地。
 
+
+#### 片語表
+1. take (sth) with a grain of salt  保持懷疑。
+2. A-list 知名的
+3. make up - 編造、和好
+4. turn down - 拒絕/駁回
+5. carry out - 執行 - [網址](https://www.youtube.com/watch?v=BLxHSH5FtkU)
+6. warm up - 暖身
+7. turn up - 調大點/出現/
+8. sort out - 挑選出/分類
+9. take off - 起飛/脫下
+10. ware out - 毀損/耗盡/使筋疲力盡
+
+#### 英文與中文差異
+1. 主、動、受、地、時
+
+#### QQ  詞性特性 - [形容詞](https://qqeng.net/tw/Learning/adjectives-learning-basic-english-grammar-what-is-an-adjective/)、[副詞](https://qqeng.net/tw/Learning/adverbs-learning-basic-english-grammar-what-is-an-adverb/)
+1. 形容詞
+   + 描述性形容詞
+     + 描述性 steamy
+     + 源自動詞 V-ed injured  V-ing  sleeping 
+     + 名詞當形容詞  English
+   + 指示形容詞
+     + this和that是單數
+     + these和those是複數
+   + 所有格形容詞
+     + my, our, your, his, her, its和their
+2. 副詞
+   + 英文副詞通常以在形容詞後加-ly結尾
+     + hard 硬的(a.) ->hardly 幾乎不(ad.)
+   + 並非所有以 -ly 結尾的詞都是副詞，也不是所有英文副詞都是-ly結尾
+     + 名詞 + -ly 通常會變成形容詞：friend朋友(n.) + ly = friendly友善(a.) 
+   + 只有一個音節的某些副詞（quick、faster、fastest）上加 -er 或 -est 來形成副詞的比較級，超過一個音節的副詞會用 more 或 most 來形成比較級
+   + 連詞副詞
+     + accordingly 因此、finally 最後、likewise 同樣地
+
 #### 超有趣英文基礎文法
 ###### 名詞
 1.  可數名詞/不可數名詞
@@ -108,40 +144,6 @@
 
 
 
-#### 片語表
-1. take (sth) with a grain of salt  保持懷疑。
-2. A-list 知名的
-3. make up - 編造、和好
-4. turn down - 拒絕/駁回
-5. carry out - 執行 - [網址](https://www.youtube.com/watch?v=BLxHSH5FtkU)
-6. warm up - 暖身
-7. turn up - 調大點/出現/
-8. sort out - 挑選出/分類
-9. take off - 起飛/脫下
-10. ware out - 毀損/耗盡/使筋疲力盡
-
-#### 英文與中文差異
-1. 主、動、受、地、時
-
-#### QQ  詞性特性 - [形容詞](https://qqeng.net/tw/Learning/adjectives-learning-basic-english-grammar-what-is-an-adjective/)、[副詞](https://qqeng.net/tw/Learning/adverbs-learning-basic-english-grammar-what-is-an-adverb/)
-1. 形容詞
-   + 描述性形容詞
-     + 描述性 steamy
-     + 源自動詞 V-ed injured  V-ing  sleeping 
-     + 名詞當形容詞  English
-   + 指示形容詞
-     + this和that是單數
-     + these和those是複數
-   + 所有格形容詞
-     + my, our, your, his, her, its和their
-2. 副詞
-   + 英文副詞通常以在形容詞後加-ly結尾
-     + hard 硬的(a.) ->hardly 幾乎不(ad.)
-   + 並非所有以 -ly 結尾的詞都是副詞，也不是所有英文副詞都是-ly結尾
-     + 名詞 + -ly 通常會變成形容詞：friend朋友(n.) + ly = friendly友善(a.) 
-   + 只有一個音節的某些副詞（quick、faster、fastest）上加 -er 或 -est 來形成副詞的比較級，超過一個音節的副詞會用 more 或 most 來形成比較級
-   + 連詞副詞
-     + accordingly 因此、finally 最後、likewise 同樣地
 
 
 #### 怕渴英文-文法與閱讀-[影片](https://www.youtube.com/watch?v=VfGyEVtZ0ec&list=PLOB7G19x6JpNCV82Rby4SjL706Qm7Ui8s&index=2)
