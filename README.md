@@ -15,7 +15,8 @@
 [<img align="left" alt="twtrubiks | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
-📈 Github Stats
+
+### 📈 Github Stats
 
 <p align="left">
   <img align="left" alt="twtrubiks's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ksharry&show_icons=true&hide_border=true" />
