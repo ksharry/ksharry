@@ -321,3 +321,18 @@
     + His excuse that he had been stuck in a traffic jam was not true.
 11. 子句功能 - 搭配虛主詞 & 虛受詞
     + It is not surprising that so many people live to be 100 or older these
+
+###### 11 名詞子句 2 
+1. 虛主詞 & that 子句
+   + It is important that tenants examine carefully all the terms themselves.
+2. 虛受詞 & that 子句
+   + Word has it that the president's youngest son was ready to replace him at the time
+3. 虛主詞 & 其他名詞子句
+   + it does not matter where you come from.
+4. because 名詞子句
+   + **Just because** I don't know science **doesn't mean** that I don't know things.
+5. 引導詞 that 省略刪除
+   + 當受詞刪除
+6. that 不可省略刪除的時機
+   + 當主詞不可刪
+7. 引導時省略後的解讀
