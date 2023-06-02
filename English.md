@@ -299,3 +299,25 @@
    + The cashier dropped a box of eggs. 
    + All of them broke.
    + The cashier dropped a box of eggs all of which broke.
+###### 11 名詞子句 
+1. 基本概念
+2. that 子句
+   + Nobody noticed that the prisoner had slipped away.
+3. whether 子句 & if 子句
+   + Whether i can go to the concert with you depends on my parents.
+   + 是否的語意
+4. wh- 子句
+   + Many graduates do not know where they should apply for jobs after college.
+5. 子句種類 - 小結
+6. 子句功能 - 主詞 & 受詞
+   + The flight attendant asked me if I wanted another drink.
+7. 子句功能 - 形容詞補語
+   + We are confident that we can deal with any challenge.
+8. 子句功能 - 主詞補語
+   + The good news is that the murderer is now under arrest.
+9. 子句功能 - 受詞補語
+   + Constant effort has made him what he is now
+10. 子句功能 - 同位語
+   + His excuse that he had been stuck in a traffic jam was not true.
+11. 子句功能 - 搭配虛主詞 & 虛受詞
+   + It is not surprising that so many people live to be 100 or older these
