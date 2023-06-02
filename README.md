@@ -11,3 +11,6 @@
 📈 Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksharry)](https://github.com/ksharry/github-readme-stats)
+<p align="left">
+  <img align="left" alt="twtrubiks's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=twtrubiks&show_icons=true&hide_border=true" />
+</p>
