@@ -1,17 +1,17 @@
-## Hi there , I'm Harry 👋
+## Hi there , I'm Harry 
 
 - :books: ERP Consultant
 - :purple_heart: Odooer
 - :beer: Homebrewer
 
-## 🙋‍♂️ Connect with me:
+## Connect with me:
 
 [<img align="left" alt="twtrubiks | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="twtrubiks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twtrubiks | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 
-## 📈 Github Stats
+## Github Stats
 
 <p align="left">
   <img align="left" alt="twtrubiks's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ksharry&show_icons=true&hide_border=true" />
