@@ -318,6 +318,6 @@
 9. 子句功能 - 受詞補語
    + Constant effort has made him what he is now
 10. 子句功能 - 同位語
-   + His excuse that he had been stuck in a traffic jam was not true.
+    + His excuse that he had been stuck in a traffic jam was not true.
 11. 子句功能 - 搭配虛主詞 & 虛受詞
-   + It is not surprising that so many people live to be 100 or older these
+    + It is not surprising that so many people live to be 100 or older these
