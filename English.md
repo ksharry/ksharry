@@ -56,11 +56,16 @@
    + 連詞副詞
      + accordingly 因此、finally 最後、likewise 同樣地
 
+#### Ozma
+###### 常用句型
+1. It's said thad 據說
+2. There is nothing as as 沒什麼比
+3. Speaking of 說到 
+4. By the way 順便說
+5. I have no idea 沒想法
+6. Are you sure 你確定嗎?
 
-
-
-
-
+___
 
 #### 怕渴英文-文法與閱讀-[影片](https://www.youtube.com/watch?v=VfGyEVtZ0ec&list=PLOB7G19x6JpNCV82Rby4SjL706Qm7Ui8s&index=2)
 ###### 01 詞性概念 
