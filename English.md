@@ -5,6 +5,7 @@
 4. 英法戰爭改變地位
 5. 英文會普及是因為英國的大範圍殖民地。
 
+___
 
 #### 片語表
 1. take (sth) with a grain of salt  保持懷疑。
@@ -33,6 +34,37 @@
 24. find out - 找出/查明
 25. take over - 接管/接收
 
+
+
+#### Ozma
+###### 常用句型
+1. It's said thad 據說
+2. There is nothing as as 沒什麼比
+3. Speaking of 說到 
+4. By the way 順便說
+5. I have no idea 沒想法
+6. Are you sure 你確定嗎?
+7. Compared to 相比
+8. Not until 直到..才
+9. Have you ever 是否曾經
+10. How come 為什麼/怎麼會
+11. It's your turn 輪到你了
+12. Do you agree 你同意嗎
+13. No Wander 難怪
+14. The more . the more 越多.越
+15. What do you say 你意見如何
+16. What if 假如.將會
+17. why not 為何不
+18. what for 什麼事物.起什麼作用
+19. whether or not 不論/是否
+20. it's not that..but.. 不是那樣,但是
+21. we better 我們最好
+22. where there is .. there is  哪裡有...就那裡有..
+24. where can i 我在哪能
+25. Would you care for 你喜歡../你想要..?
+
+___
+
 #### 英文與中文差異
 1. 主、動、受、地、時
 
@@ -55,16 +87,6 @@
    + 只有一個音節的某些副詞（quick、faster、fastest）上加 -er 或 -est 來形成副詞的比較級，超過一個音節的副詞會用 more 或 most 來形成比較級
    + 連詞副詞
      + accordingly 因此、finally 最後、likewise 同樣地
-
-#### Ozma
-###### 常用句型
-1. It's said thad 據說
-2. There is nothing as as 沒什麼比
-3. Speaking of 說到 
-4. By the way 順便說
-5. I have no idea 沒想法
-6. Are you sure 你確定嗎?
-
 ___
 
 #### 怕渴英文-文法與閱讀-[影片](https://www.youtube.com/watch?v=VfGyEVtZ0ec&list=PLOB7G19x6JpNCV82Rby4SjL706Qm7Ui8s&index=2)
