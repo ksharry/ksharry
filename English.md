@@ -7,6 +7,19 @@
 
 ___
 
+##  新制多益 TOEIC 單字大全-[網址](https://www.books.com.tw/products/0010929979)
+#### day7 介系詞
+1. have a monopoly on -n.
+2. compete for -v.
+3. demand for -n.
+4. impact on -n.
+5. in comparison with - n.
+6. gap between - n.
+7. be reflective -adj
+#### day7 類似比較
+1. raise及物/rise不及物
+2. affect影響/effect效力
+
 #### 片語表
 1. take (sth) with a grain of salt  保持懷疑。
 2. A-list 知名的
