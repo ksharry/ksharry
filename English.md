@@ -20,6 +20,8 @@ ___
 1. raise及物/rise不及物
 2. affect影響/effect效力
 
+___
+
 #### 片語表
 1. take (sth) with a grain of salt  保持懷疑。
 2. A-list 知名的
