@@ -25,9 +25,10 @@ ___
    + aim to do / aim at
    + by means of 藉由
    + take adventage of 利用
-   +  
+   + in an effort to do 為了努力做到 
 2. 類似比較
    + instantly立即/urgently緊急/hastily匆忙
+   + a majority 大多數(冠詞)/ most of 大部分
 
 ___
 
