@@ -1,4 +1,4 @@
-#### 英語起源
+## 英語起源
 1. 英文歷史-日耳曼的一個部族，安格魯人的語言演化成古英文在演化英文。
 2. 六世紀傳教士，傳入拉丁文與英語
 3. 十一世紀英文為粗魯語言，諾曼第入侵英格蘭認定法文是一等，所以有分禮貌跟不禮貌說法。(cow-beef)
@@ -31,7 +31,7 @@ ___
 
 ___
 
-#### 片語表
+## 片語表
 1. take (sth) with a grain of salt  保持懷疑。
 2. A-list 知名的
 3. make up - 編造、和好
@@ -60,8 +60,8 @@ ___
 
 ___
 
-#### Ozma
-###### 常用句型
+## Ozma
+#### 常用句型
 1. It's said thad 據說
 2. There is nothing as as 沒什麼比
 3. Speaking of 說到 
@@ -89,10 +89,7 @@ ___
 
 ___
 
-#### 英文與中文差異
-1. 主、動、受、地、時
-
-#### QQ  詞性特性 - [形容詞](https://qqeng.net/tw/Learning/adjectives-learning-basic-english-grammar-what-is-an-adjective/)、[副詞](https://qqeng.net/tw/Learning/adverbs-learning-basic-english-grammar-what-is-an-adverb/)
+## QQ  詞性特性 - [形容詞](https://qqeng.net/tw/Learning/adjectives-learning-basic-english-grammar-what-is-an-adjective/)、[副詞](https://qqeng.net/tw/Learning/adverbs-learning-basic-english-grammar-what-is-an-adverb/)
 1. 形容詞
    + 描述性形容詞
      + 描述性 steamy
@@ -114,7 +111,7 @@ ___
 ___
 
 #### 怕渴英文-文法與閱讀-[影片](https://www.youtube.com/watch?v=VfGyEVtZ0ec&list=PLOB7G19x6JpNCV82Rby4SjL706Qm7Ui8s&index=2)
-###### 01 詞性概念 
+#### 01 詞性概念 
 1. 名詞n
    + 做S、O、C使用
    + 介係詞後面做O使用
@@ -200,7 +197,7 @@ ___
      + Inf. + Adv. - to call immediately
      + Inf. + Inf. - to call to confirm the order  
      + Inf. + Perp.片 - to call between 10 to 12
-###### 03 句型概念
+#### 03 句型概念
 1. 概念
    + 簡單句一定有動詞
    + Be動詞後面是補語
@@ -225,7 +222,7 @@ ___
    + We will give each participant a brochure
    + You must show the conductor your ticket before boarding
 7. 複合句型
-###### 04 疑問句型
+#### 04 疑問句型
 1. 疑問句型概念
 2. 是非問句 
    + BE V./AUX. S. + V.
@@ -244,7 +241,7 @@ ___
    + Wh- + V.
 6. 疑問詞作主詞
  
-###### 05 祈使句型
+#### 05 祈使句型
 1. 祈使句型概念
    + 省略主詞
    + 原型動詞開頭
@@ -275,7 +272,7 @@ ___
 3. 虛受詞
    + Bugdget cuts have made doing their jobs difficult for inspectors.
    + Bugdget cuts have made it difficult for inspectors to do their jobs
-###### 07 there be 句型
+#### 07 there be 句型
 1. 使用時機
    + 存在/空間；跟Have的屬於不同
 2. 動詞數量
@@ -311,7 +308,7 @@ ___
    + although/but 的文法錯誤
 7. 從屬連接詞 v.s. 轉折副詞 
    + 轉折though
-###### 09 形容詞子句
+#### 09 形容詞子句
 1. 子句功能
    + 較大範圍 N. + adj - The women who is standing by the door  
    + 先行詞 + 關代
@@ -338,7 +335,7 @@ ___
 8. 如何辨別子句範圍
    + 受格式後面往前翻，而且可以隱藏。
    + 主格或受格關代，子句內文法必不完整。
-###### 10 形容詞子句 II
+#### 10 形容詞子句 II
 1. 介詞前移
    + 子句的介詞可以前移
    + The topic in which Michael is most interested is electrical engineering
@@ -371,7 +368,7 @@ ___
    + The cashier dropped a box of eggs. 
    + All of them broke.
    + The cashier dropped a box of eggs all of which broke.
-###### 11 名詞子句 
+#### 11 名詞子句 
 1. 基本概念
 2. that 子句
    + Nobody noticed that the prisoner had slipped away.
@@ -394,7 +391,7 @@ ___
 11. 子句功能 - 搭配虛主詞 & 虛受詞
     + It is not surprising that so many people live to be 100 or older these
 
-###### 12 名詞子句 2 
+#### 12 名詞子句 2 
 1. 虛主詞 & that 子句
    + It is important that tenants examine carefully all the terms themselves.
 2. 虛受詞 & that 子句
@@ -409,7 +406,7 @@ ___
    + 當主詞不可刪
 7. 引導時省略後的解讀
 
-###### 13 文法練習
+#### 13 文法練習
 1. interfere with / in  干預
 2. let + O + VR -所以有兩個動詞
 3. attribute A to B 歸因
@@ -419,8 +416,8 @@ ___
 7. equip sb. with 在sb.裝配
 
 ========================================================================================================================
-#### 超有趣英文基礎文法
-###### 名詞
+## 超有趣英文基礎文法
+#### 名詞
 1.  可數名詞/不可數名詞
 2.  五大名詞
     + 普通名詞:
@@ -428,14 +425,14 @@ ___
     + 集合名詞:本身複數，例如:class,family,people,crowd,audience
     + 物質名詞:不可數，例如:water,air,milk,bread,sugar
     + 抽象名詞:不加冠詞，沒單複數，例如:art,singing,failure,experience.
-###### 冠詞
+#### 冠詞
 1.  a/an是不定冠詞。
 
 2.  the是定冠詞。
     >唯一,特定,群族,頂級
   
     >不能加冠詞:國家名、語言、三餐、人名、職稱、商店、年份、不可數名詞、獨立的景、城市/街道。
-###### 動詞
+#### 動詞
 1.  主詞+動詞+to+原型動詞。-->兩者動詞間的橋梁是不定詞"to"。
 
     >有些會使用動名詞:quit,enjoy,keep,mind
@@ -445,7 +442,7 @@ ___
 2.  不一定要有動作的動詞:主詞+be動詞+補語
 3.  否定:助動詞+not+原型動詞/be動詞+not
     
-###### 動名詞
+#### 動名詞
 1.  動名詞與現在分詞要表達的意思不一樣。
     >動名詞修飾名詞；現在分詞是型態
 2.  字母變化:
@@ -462,7 +459,7 @@ ___
 3.  沒有現在分詞的動詞:
     >want,love,prefer,wish,believe,need,like,hate,agree,remeber
 
-###### 助動詞
+#### 助動詞
 1.  主詞+助動詞+原型動詞。
 2.  可用來加強語氣。
 3.  could表示委婉的客氣表示。
@@ -470,11 +467,11 @@ ___
 5.  might常用於過去式或假想推論。may為推斷或讓步。
 6.  shall表示應當/will表示未來式
 
-###### 現在式
+#### 現在式
 1.  主詞+動詞現在式
 2.  表示現在的事實或現象;常用every day(morning),always
 
-###### 現在進行式
+#### 現在進行式
 1.  主詞+be動詞+動詞ing
 2.  強調"目前"，常用now,
 3.  不等於動名詞的用法。
@@ -483,13 +480,13 @@ ___
 
    >感官動詞沒有進行式:look,hear,appear,sound,feel,seem,taste,smell。
 
-###### 現在完成式
+#### 現在完成式
 1.  have+過去分詞
 2.  過去發生且狀態一直持續到現在。
 3.  過去的時間:last / since / for
 4.  也可以使用在否定句,i have never seem him.
 
-###### 過去式
+#### 過去式
 1.  主詞+動詞過去式/主詞+助動詞過去式+原型動詞   
 2.  常用時間副詞:yesterday,ago,last,before,just now
 3.  過去分詞有形容詞功能，只能修飾具有感覺的名詞,非過去式。
@@ -498,7 +495,7 @@ ___
    
    >過去分詞:bored with,embarrassed about,excited about,worried about,interested in,surpised at,tired of,impressed by
    
-###### 未來式
+#### 未來式
 1.  主詞+will+原型動詞               ->意願較低
     主詞+be動詞+going to +原型動詞。  ->意願較高
 2.  will的用法:
@@ -510,12 +507,12 @@ ___
     +  必須:No one will leave the examination room before ten o'clock.
 3.  will不會有時間出現。
  
-###### 敘述句型
+#### 敘述句型
 1.  肯定:主詞+動詞+ 受詞/補語
 2.  否定:主詞+助動詞+not+原型動詞/主詞+be動詞+not
 3.  疑問:助動詞+主詞+一般動詞/be動詞+主詞+補語
 
     >否定疑問句的回覆也是使用肯定句。
  
-###### too的使用
+#### too的使用
 1. too用在肯定句,either用在否定句。
