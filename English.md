@@ -8,17 +8,24 @@
 ___
 
 ##  新制多益 TOEIC 單字大全-[網址](https://www.books.com.tw/products/0010929979)
-#### day7 介系詞
-1. have a monopoly on -n.
-2. compete for -v.
-3. demand for -n.
-4. impact on -n.
-5. in comparison with - n.
-6. gap between - n.
-7. be reflective -adj
-#### day7 類似比較
-1. raise及物/rise不及物
-2. affect影響/effect效力
+#### day7 
+1. 介系詞
+   + have a monopoly on -n.
+   + compete for -v.
+   + demand for -n.
+   + impact on -n.
+   + in comparison with - n.
+   + gap between - n.
+   + be reflective -adj
+2. 類似比較
+   + raise及物/rise不及物
+   + affect影響/effect效力
+#### day8
+1. 介系詞
+   + aim to do / aim at
+   + 
+2. 類似比較
+   + instantly立即/urgently緊急/hastily匆忙
 
 ___
 
