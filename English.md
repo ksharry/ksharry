@@ -23,7 +23,9 @@ ___
 #### day8
 1. 介系詞
    + aim to do / aim at
-   + 
+   + by means of 藉由
+   + take adventage of 利用
+   +  
 2. 類似比較
    + instantly立即/urgently緊急/hastily匆忙
 
