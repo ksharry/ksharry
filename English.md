@@ -40,7 +40,17 @@ ___
 2. 類似比較
    + instantly立即/urgently緊急/hastily匆忙
    + a majority 大多數(冠詞)/ most of 大部分
-
+#### day9
+1. 介系詞
+   + be pleased to do
+   + in particular
+   + lead to 
+2. 類似比較
+   + stagnant / sluggish 停滯
+   + dramatically / substantially 戲劇性
+   + brisk / stong /lively 活耀
+   + soar / plummet 上升/下跌
+   + 
 ___
 
 ## 片語表
