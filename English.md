@@ -107,6 +107,10 @@ ___
    + soar / plummet 上升/下跌
    + fairly / quite 相當
    + 
+
+#### 相似紀錄
+1. participate 參加 / particular 特別
+2. 
 ___
 
 ## 片語表
