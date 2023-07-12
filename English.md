@@ -44,12 +44,15 @@ ___
 1. 介系詞
    + be pleased to do
    + in particular
-   + lead to 
+   + lead to
+   + be likely to do
+   + in time of prerequisite
 2. 類似比較
    + stagnant / sluggish 停滯
    + dramatically / substantially 戲劇性
    + brisk / stong /lively 活耀
    + soar / plummet 上升/下跌
+   + fairly / quite 相當
    + 
 ___
 
