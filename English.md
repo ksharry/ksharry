@@ -132,7 +132,7 @@ ___
    + in comparison with - n.
    + gap between - n.
    + be reflective -adj
-2. 類似比較
+2. 類似
    + raise及物/rise不及物
    + affect影響/effect效力
 #### day8
@@ -141,7 +141,7 @@ ___
    + by means of 藉由
    + take adventage of 利用
    + in an effort to do 為了努力做到 
-2. 類似比較
+2. 類似
    + instantly立即/urgently緊急/hastily匆忙
    + a majority 大多數(冠詞)/ most of 大部分
 #### day9
@@ -151,13 +151,20 @@ ___
    + lead to
    + be likely to do
    + in time of prerequisite
-2. 類似比較
+2. 類似
    + stagnant / sluggish 停滯
    + dramatically / substantially 戲劇性
    + brisk / stong /lively 活耀
    + soar / plummet 上升/下跌
    + fairly / quite 相當
+#### day10
+1. 介系詞
+   + whithin ... days of purchase 購買幾天後
+   + in charge of 負責
+   + under warranty 保固內
+   + upon receipt of 一收到-就
    + 
+2. 類似
 
 #### 相似紀錄
 1. participate 參加 / particular 特別
