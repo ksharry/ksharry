@@ -163,8 +163,9 @@ ___
    + in charge of 負責
    + under warranty 保固內
    + upon receipt of 一收到-就
-   + 
 2. 類似
+   + method / approach 方法
+   + 
 
 #### 相似紀錄
 1. participate 參加 / particular 特別
