@@ -165,7 +165,18 @@ ___
    + upon receipt of 一收到-就
 2. 類似
    + method / approach 方法
-   + 
+#### day11
+1. 介系詞
+   + rearch on 研究
+   + in response to / 回應~
+   + in advance 優先 / in advance of 在~之前/ advance in 在~的發展
+   + be under development 發展中/ development in 在~的發展
+   + be compatible with 與~相容
+   + be superior to 比~優秀
+
+2. 類似
+   + superiotr / excellent 優秀
+   + corrosion 腐蝕/ erosion 侵蝕
 
 #### 相似紀錄
 1. participate 參加 / particular 特別
