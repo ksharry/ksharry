@@ -173,6 +173,9 @@ ___
    + be under development 發展中/ development in 在~的發展
    + be compatible with 與~相容
    + be superior to 比~優秀
+   + come up with 想出;提出
+   + aside from 除了~以外
+   + by the time 到~時候
 
 2. 類似
    + superiotr / excellent 優秀
@@ -180,7 +183,8 @@ ___
 
 #### 相似紀錄
 1. participate 參加 / particular 特別
-2. 
+2. intent 專注 /
+3. accomplish 完成 / accomplished 熟練
 ___
 
 ## 片語表
