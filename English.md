@@ -183,9 +183,11 @@ ___
 
 #### day12
 1. 介系詞
-   + 
+   + be cabable of -ing 有能力做
 2. 類似
    + material 材料 / ingredient 食品原料
+   + damaged 事物 / impaired 心靈 / injured 外傷 
+
 #### 相似紀錄
 1. participate 參加 / particular 特別
 2. intent 專注 /
