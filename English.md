@@ -181,6 +181,11 @@ ___
    + superiotr / excellent 優秀
    + corrosion 腐蝕/ erosion 侵蝕
 
+#### day12
+1. 介系詞
+   + 
+2. 類似
+   + material 材料 / ingredient 食品原料
 #### 相似紀錄
 1. participate 參加 / particular 特別
 2. intent 專注 /
