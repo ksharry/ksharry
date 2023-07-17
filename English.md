@@ -169,7 +169,7 @@ ___
 1. 介系詞
    + rearch on 研究
    + in response to / 回應~
-   + in advance 優先 / in advance of 在~之前/ advance in 在~的發展
+   + in advance 優先 / in advance of 在-之前/ advance in 在~的發展
    + be under development 發展中/ development in 在~的發展
    + be compatible with 與~相容
    + be superior to 比~優秀
@@ -578,7 +578,8 @@ ___
 6. dread of/about 夢想
 7. equip sb. with 在sb.裝配
 
-========================================================================================================================
+___
+
 ## 超有趣英文基礎文法
 #### 名詞
 1.  可數名詞/不可數名詞
