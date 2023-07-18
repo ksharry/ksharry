@@ -1,6 +1,6 @@
 ##  新制多益TOEIC文法考前衝刺-[網址](https://www.books.com.tw/products/0010791922)
 #### ch1 名詞
-###### 1
+###### 章節1
 1. 主詞以外的名詞，只能接在動詞或介係詞後
    + 第五類-不完全及物動詞/mank/find/keep/consider/appoint/call/elect/vote/name
 2. 冠詞、所有格、限定詞後面接的正確答案經常是名詞
@@ -11,7 +11,7 @@
 4. 名詞 vs. 動名詞的類型，有90%的正確答案是名詞
    + 及物動詞後面是受詞，其他都為名詞
 5. 名詞後面出現其他名詞或動名詞時，要確認動詞的個數
-###### 2
+###### 章節2
 1. several 後面應接複數名詞
    + each/every/one + 單數名詞
    + all/these/those/several/many/few + 複數名詞
