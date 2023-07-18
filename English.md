@@ -204,6 +204,7 @@ ___
 2. intent 專注 /
 3. accomplish 完成 / accomplished 熟練
 4. appropriately 適當 / approximately 大約
+5. facilities 設備 / facilitate 促進 v
 ___
 
 ## 片語表
