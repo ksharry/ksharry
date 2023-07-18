@@ -188,10 +188,22 @@ ___
    + material 材料 / ingredient 食品原料
    + damaged 事物 / impaired 心靈 / injured 外傷 
 
+#### day13
+1. 介系詞
+   + file the complain with 投訴
+   + replace A with B / substitute A for B 取代
+   + notification of ~的通知
+   + apologize for 道歉
+   + commitment to 投入~
+   + be critical of 對~不滿
+2. 類似
+   + 
+
 #### 相似紀錄
 1. participate 參加 / particular 特別
 2. intent 專注 /
 3. accomplish 完成 / accomplished 熟練
+4. appropriately 適當 / approximately 大約
 ___
 
 ## 片語表
