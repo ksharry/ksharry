@@ -95,6 +95,10 @@ ___
    + be critical of 對~不滿
 2. 類似
    + 
+#### day14
+1. 介系詞
+   + fi
+
 
 #### 相似紀錄
 1. participate 參加 / particular 特別
