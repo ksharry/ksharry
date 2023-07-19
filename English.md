@@ -96,9 +96,9 @@ ___
 2. 類似
    + 
 #### day14
-1. 介系詞
-   + fi
-
+1. 混淆
+   + besides 在~之外
+   + beside 在~旁邊
 
 #### 相似紀錄
 1. participate 參加 / particular 特別
