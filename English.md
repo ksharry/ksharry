@@ -106,7 +106,10 @@ ___
 1. 混淆
    + besides 在~之外
    + beside 在~旁邊
-
+#### day14
+1. prep
+   + proceed with 繼續進行
+   + bid for 競標~
 #### 相似紀錄
 1. participate 參加 / particular 特別
 2. intent 專注 /
