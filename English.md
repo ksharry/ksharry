@@ -133,7 +133,7 @@ ___
 #### 相似紀錄
 1. participate 參加 / particular 特別
 2. intent 專注 /
-3. accomplish 完成 / accomplished 熟練
+3. accomplish 完成 / accomplished 熟練 /accompany陪伴 / accomplishment 成就
 4. appropriately 適當 / approximately 大約
 5. facilities 設備 / facilitate 促進 v
 ___
