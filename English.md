@@ -1,3 +1,123 @@
+## 1012-[Ana](https://www.youtube.com/watch?v=shCGJTTS6Rc&list=PLHZvXHDTTwEwrQ_9Qf2jrj_Qz67SAZwhK)
+
+
+#### 20.單複數名詞
+1. 字尾s,ch,sh,x,o時，加es：class-classes
+2. 子音+y，後面加ies：puppy-puppies
+3. 母音+y，後面加s：toy-toys
+4. 字尾f,fe，加ves：thief-thieves
+5. 單複數同形：fish,sheep
+6. 不規則變化：man-men,tooth-teeth,goose-geese,child-children
+
+#### 21.不可數名詞
+1. 專有名詞
+   + 人名:Harry
+   + 地名Taipei
+   + 語言:English
+   + 星期:Monday
+   + 節日:Chrismas
+2. 物質名詞
+   + 食品材料:beef
+   + 物質材料:iron
+   + 液體:water,tea
+   + 氣體:air
+3. 抽象名詞:help,time
+#### 22.一般動詞＋現在簡單式
+1. 字尾s,sh,ch,x,o，字尾加es:wash-washes
+2. 子音+y，ies：try-tries
+3. 母音+y，s：say-says
+#### 24.現在分詞＋現在進行式
+1. 字尾e，去e加ing：write-writing
+2. 字尾短母音+子音，重複字尾子音加ing：sit-sitting
+#### 26. 祈使句
+1. 命令、請求、勸告、禁止
+2. 省略主詞
+3. 動詞為原型動詞
+4. Don't Run
+#### 27. too和either
+1. too用肯定句
+2. either用否定句
+#### 28. 形容詞
+1. 用來修飾名詞
+2. Be動詞之後、名詞之前
+#### 30. can
+1. 後面加原形動詞
+#### 31. Some/Any
+1. Some
+   + 用在肯定句
+   + 後面家可數複數名詞、不可數名詞
+   + we need some money
+2. Any
+   + 用在否定句與疑問句
+   + 後面可加單複數名詞、不可數名詞
+   + we don't need any money?
+#### 32. do/does
+1. 後面只能加原形動詞
+
+#### 36. 頻率副詞
+1. BE動詞製後
+2. 一般動詞之前
+3. 助動詞與原形動詞之間
+4. 現在簡單式使用
+#### 39. 副詞
+1. 疑問副詞:when
+2. 地方副詞:in Taipei
+3. 時間副詞:today
+4. 頻率副詞:always
+5. 情狀副詞:happily
+6. 肯定距與否定的副詞:yes,no,not
+#### 40. 部分否定
+1. not both
+2. one...but the other
+3. not all
+4. some..,but some
+#### 41. 情態助動詞
+1. can
+2. could
+3. may
+4. might
+5. must 責任(一定)
+6. ought to 責任(應該)
+7. shall 建議
+8. should
+9. will
+10. would
+#### 43. 時間介係詞
+1. in 長時間
+2. on 固定特定時間
+3. at 短時間
+#### 44.地方的介系詞
+1. at 小地方:at home
+2. in 大地方:in Taipei
+3. on 在上面、街道:on Main Street
+4. along 沿著
+5. across 交叉、越過 across the street
+6. through 穿過 through the bridge
+7. toward 朝某地 towards north
+#### 45. 上/下/周圍的介系詞
+1. over 正上方
+2. under 正下方
+3. above 在上方
+4. below 在下方
+5. by,beside 在旁邊
+#### 48. 未來式
+1. 助動詞 will
+2. 搭配未來時間:next year
+#### 50.many/much/a lot of的用法
+1. many+可數名詞
+2. much+不可數名詞
+3. a lot of +可數名詞 or 不可數名詞
+
+#### 101 派克
+2. 動詞v
+   + 及物動詞vt,有受詞
+   + 不及物動詞vi,無受詞
+3. 形容詞adj
+   + 只能修飾名詞，可前可後
+4. 副詞adv
+   + 修飾名詞以外的詞性
+
+
 ##  新制多益TOEIC文法考前衝刺-[網址](https://www.books.com.tw/products/0010791922)
 #### ch1 名詞
 1. 主詞以外的名詞，只能接在動詞或介係詞後
