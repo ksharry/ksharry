@@ -41,12 +41,14 @@
        + 動詞後面所接的動詞必須使用原形動詞
        + mank,have,let,help
    + 12主動態
+   
 ||過去|現在|未來|
 |--|--|--|--|
 | 簡單式 | S + Ved | S + V(s/es) | S + will Vr/S + be going to Vr |
 | 完成式 | S + had pp. | S + have/ has + pp. | S + will have + pp.|
 | 進行式 | S + was/ were + Ving | S + is/ am/ are + Ving | S + will be + Ving/S + be going to + be Ving |
 | 完成進行式 | S + had been + Ving | S + have/ has + been + Ving | S + will have been + Ving| 
+
    + 8大被動態
 5. 副詞adv
    + 修飾名詞以外的詞性
