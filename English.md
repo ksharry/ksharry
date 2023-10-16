@@ -43,7 +43,7 @@
        + 動詞後面所接的動詞必須使用原形動詞
        + Get 雖然列在使役動詞之中，需用「to +原V」
        + 主動
-         + 主詞(S) + 使役動詞 (CV) + 受詞 (O) + 原型動詞 (原V)
+         + S + CV(使役動詞) + O + Vr
          + Jack let his friend borrow his car.
        + 被動
          + make/have/get + 受詞 + p.p
@@ -433,56 +433,7 @@ ___
 24. find out - 找出/查明
 25. take over - 接管/接收
 
-___
 
-## Ozma
-#### 常用句型
-1. It's said thad 據說
-2. There is nothing as as 沒什麼比
-3. Speaking of 說到 
-4. By the way 順便說
-5. I have no idea 沒想法
-6. Are you sure 你確定嗎?
-7. Compared to 相比
-8. Not until 直到..才
-9. Have you ever 是否曾經
-10. How come 為什麼/怎麼會
-11. It's your turn 輪到你了
-12. Do you agree 你同意嗎
-13. No Wander 難怪
-14. The more . the more 越多.越
-15. What do you say 你意見如何
-16. What if 假如.將會
-17. why not 為何不
-18. what for 什麼事物.起什麼作用
-19. whether or not 不論/是否
-20. it's not that..but.. 不是那樣,但是
-21. we better 我們最好
-22. where there is .. there is  哪裡有...就那裡有..
-24. where can i 我在哪能
-25. Would you care for 你喜歡../你想要..?
-
-___
-
-## QQ  詞性特性 - [形容詞](https://qqeng.net/tw/Learning/adjectives-learning-basic-english-grammar-what-is-an-adjective/)、[副詞](https://qqeng.net/tw/Learning/adverbs-learning-basic-english-grammar-what-is-an-adverb/)
-1. 形容詞
-   + 描述性形容詞
-     + 描述性 steamy
-     + 源自動詞 V-ed injured  V-ing  sleeping 
-     + 名詞當形容詞  English
-   + 指示形容詞
-     + this和that是單數
-     + these和those是複數
-   + 所有格形容詞
-     + my, our, your, his, her, its和their
-2. 副詞
-   + 英文副詞通常以在形容詞後加-ly結尾
-     + hard 硬的(a.) ->hardly 幾乎不(ad.)
-   + 並非所有以 -ly 結尾的詞都是副詞，也不是所有英文副詞都是-ly結尾
-     + 名詞 + -ly 通常會變成形容詞：friend朋友(n.) + ly = friendly友善(a.) 
-   + 只有一個音節的某些副詞（quick、faster、fastest）上加 -er 或 -est 來形成副詞的比較級，超過一個音節的副詞會用 more 或 most 來形成比較級
-   + 連詞副詞
-     + accordingly 因此、finally 最後、likewise 同樣地
 ___
 
 #### 怕渴英文-文法與閱讀-[影片](https://www.youtube.com/watch?v=VfGyEVtZ0ec&list=PLOB7G19x6JpNCV82Rby4SjL706Qm7Ui8s&index=2)
