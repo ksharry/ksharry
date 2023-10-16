@@ -16,34 +16,40 @@
 4. 動詞(Verb)
    + 五大句型
    + 1.S + V - 不及物動詞(vi,無受詞)
+     + appear、smile、cry
    + 2.S + V + C - 連綴動詞(不完全不及物)
-     + 連綴動詞，又稱不完全不及物動詞
-       + 用來連接主詞與形容詞或名詞，作主詞補語修飾主詞。
-       + 常見連綴動詞有這些：
-         + be動詞：is、am、are、was、were、be、been…等。
-         + 感官相關：sound 聽起來、look 看起來、feel 感覺起來、smell 聞起來...等。
-         + 表達變化：become 變得、get 變成；變得、grow 成長、turn 使…變成
-         + 表仍然、維持：remain 仍然是、stay 繼續；保持、keep（使）保持。
+     + 用來連接主詞與形容詞或名詞，作主詞補語修飾主詞。
+     + 常見連綴動詞有這些：
+       + be動詞：is、am、are、was、were、be、been…等。
+       + 感官動詞：sound 聽起來、look 看起來、feel 感覺起來、smell 聞起來...等。
+         + 動詞後面所接的動詞必須使用原形動詞
+         + 感官動詞沒有進行式
+       + 表達變化：become 變得、get 變成；變得、grow 成長、turn 使…變成
+       + 表仍然、維持：remain 仍然是、stay 繼續；保持、keep（使）保持。
    + 3.S + V + O - 及物動詞(vt,有受詞)
+     + like、love、hate、want、take、make、get、do
+     + i like baseketball
    + 4.S + V + O + C - 不完全及物動詞
      + 因為及物需要有個受詞「O」，因為不完全還需要有個補語「C」，才能表達句子完整的意思。
-       + elect, keep, find, call, consider, believe, appoint, regard, name, deem, force, leave, suppose, prefer 經常需要受詞補語。
-         + The old lady left the windows open. 老太太讓窗子開著。
+       + keep, find, call, consider, believe, appoint, regard, name, deem, force, leave, suppose, prefer 經常需要受詞補語。
+         + he painted the car green. 老太太讓窗子開著。
          + left 是不完全及物動詞，除了需要受詞 the windows 外，還需要補語 open。
    + 5.S + V + O + O - 授予動詞
      + 它需要兩個受詞「O」，間接受詞「IO」（多用來表示人）通常在前，直接受詞 「DO」 （多用來表示物）通常在後。
-     + i will show you a vedio
-   + 6.其他動詞
-     + 感官動詞
-       + 看、聽、聞、感覺、嚐等感官動作的動詞詞彙
-       + 動詞後面所接的動詞必須使用原形動詞
-       + see,watch,look at,hear,listen to,feel,smell,notice,taste,appear
-       + 感官動詞沒有進行式
-     + 使役動詞:
+     + i show you a vedio
+   + 6. 使役動詞:
+       + let、make、have、get
        + 表示讓某人做某事”的意思
        + 動詞後面所接的動詞必須使用原形動詞
-       + mank,have,let,help
-   + 12主動態
+       + Get 雖然列在使役動詞之中，需用「to +原V」
+       + 主動
+         + 主詞(S) + 使役動詞 (CV) + 受詞 (O) + 原型動詞 (原V)
+         + Jack let his friend borrow his car.
+       + 被動
+         + make/have/get + 受詞 + p.p
+         + let + 受詞 + be p.p
+         + I had my homework done
+   + 12個主動態
    
 ||過去|現在|未來|
 |--|--|--|--|
@@ -52,7 +58,7 @@
 | 進行式 | S + was/ were + Ving | S + is/ am/ are + Ving | S + will be + Ving / S + be going to + be Ving |
 | 完成進行式 | S + had been + Ving | S + have/ has + been + Ving | S + will have been + Ving| 
 
-   + 8大被動態-[網址](https://www.sunlightenglish.com/article_detail/active-and-passive)
+   + 8個被動態-[網址](https://www.sunlightenglish.com/article_detail/active-and-passive)
 
 ||過去|現在|未來|
 |--|--|--|--|
