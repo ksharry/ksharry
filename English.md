@@ -41,8 +41,7 @@
        + 動詞後面所接的動詞必須使用原形動詞
        + mank,have,let,help
    + 12主動態
-
-|        | 過去 | 現在 | 未來 |
+   + |        | 過去 | 現在 | 未來 |
 |---|---|---|---|---|
 | 簡單式 | S + Ved | S + V(s/es) | S + will Vr/S + be going to Vr |
 | 完成式 | S + had pp. | S + have/ has + pp. | S + will have + pp.|
