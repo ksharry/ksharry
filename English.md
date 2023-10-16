@@ -5,6 +5,8 @@
 4. [150+種動詞三態變化整理](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/81026/)
 5. [五大句型](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=139)
 6. [類副詞](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=139)
+7. [五大句型](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=139)
+8. [從屬子句](https://www.youtube.com/watch?v=5AC6wet6vB8&list=PLp2TEvhBsUYYoeKso4q2sQA9yuq29Ehxd&index=17)
 
 #### 101 八大詞性(形式標籤)+五大句型+三大子句
 1. 名詞(Noun)
@@ -30,6 +32,7 @@
          + left 是不完全及物動詞，除了需要受詞 the windows 外，還需要補語 open。
    + 5.S + V + O + O - 授予動詞
      + 它需要兩個受詞「O」，間接受詞「IO」（多用來表示人）通常在前，直接受詞 「DO」 （多用來表示物）通常在後。
+     + i will show you a vedio
    + 6.其他動詞
      + 感官動詞
        + 看、聽、聞、感覺、嚐等感官動作的動詞詞彙
@@ -70,22 +73,28 @@
 9. 其他類型
    + 虛主詞
      + 概念&使用時機:避免主詞拖得太長，動詞太晚出現。
-   + 形容詞子句
-     + 子句功能
-       + 較大範圍 N. + adj - The women who is standing by the door
-       + 先行詞 + 關代
-       + 形容詞子句前方一定有名詞進行修飾
-       + 必須準守就近原則
-   + 名詞子句
    + 類副詞(功能標籤)
      + 類副詞（Adverbial）類似副詞（Adverb），但兩者有些差異。副詞修飾「形容詞」、「動詞」、或其他「副詞」，而類副詞則是具有副詞功能的字、片語、或子句，用來修飾「動詞」或「子句」。
        + 名詞片語 He arrived this morning
        + 介系詞片語 The train leaves in a few minutes
        + 從屬子句 Sam worked very very hard until he had finished
- 10. 三大子句
+ 10. 三大從屬子句(SV)
      + 名詞子句
-     + 形容詞子句
+       + 名詞子句其實就是一個結構比較長的名詞，所以名詞可以放的地方，名詞子句就可以放。
+       + 連接詞/疑問詞/關係代名詞: that/if/when/where/whatever/whoever
+       + 名詞子句 S+V+O+C : 有主詞動詞的一群字- 可當主詞/受詞/補語使用
+       + Do you know what we are going to have for dinner?       
+     + 形容詞子句-[網址](https://www.youtube.com/watch?v=sDBN6akhg_8)
+       + 形容詞子句是由關係代名詞帶領的子句，功能就是用來修飾前面的先行詞
+       + 關係代名詞: who(人、主格)/whom(人、受格)/whose(人、所有格)/which(事物)/that(事物)
+       + 關係副詞: why/where/when
+       + 名詞後面 N+關係代名詞或是關係副詞+S+V
+       + This is the best dish I’ve ever had. 這是我吃過最棒的餐點。
      + 副詞子句
+       + 副詞子句的功能就跟副詞、副詞片語一樣，提供語意：但是就算拿掉副詞子句，整個句子的文法結構也不會被破壞。
+       + 從屬連接詞:if/when/while/since/because/although/as long as
+       + 副詞子句 (S+V)- 功能: 補充說明
+       + I started making this as soon as I got home this afternoon.
 
 #### 102 詞性判斷-[網址](https://blog.wordup.com.tw/blog/2021/05/10/use-suffix-to-judge-parts-of-speech/)
 1. 動詞字尾詞性:連接於名詞或形容詞之後，表示「使…」、「做…」:
