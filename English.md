@@ -54,6 +54,15 @@
      + 省略主詞
      + 動詞為原型動詞
      + Don't Run
+   + 8.助動詞
+     + 主詞+助動詞+原型動詞。
+     + 用來加強語氣。
+     + can、could、may、might
+       + could表示委婉的客氣表示。
+       + 與be able to相似，但是be able to 較常用在未來、完成式。
+       + might常用於過去式或假想推論。may為推斷或讓步。
+       + shall表示應當/will表示未來式
+       + must 責任(一定)、ought to 責任(應該)
    + 12個主動態
    
 ||過去|現在|未來|
@@ -85,7 +94,7 @@
    + 虛主詞
      + 概念&使用時機:避免主詞拖得太長，動詞太晚出現。
    + 類副詞(功能標籤)
-     + 類副詞（Adverbial）類似副詞（Adverb），但兩者有些差異。副詞修飾「形容詞」、「動詞」、或其他「副詞」，而類副詞則是具有副詞功能的字、片語、或子句，用來修飾「動詞」或「子句」。
+     + 類副詞（Adverbial）類似副詞（Adverb），但兩者有些差異。副詞修飾「形容詞」、「動詞」、或其他「副詞」，類副詞則是具有副詞功能的字、片語、或子句，修飾「動詞」或「子句」
        + 名詞片語 He arrived this morning
        + 介系詞片語 The train leaves in a few minutes
        + 從屬子句 Sam worked very very hard until he had finished
