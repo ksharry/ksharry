@@ -1,3 +1,114 @@
+## 基礎的英文教學
+1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
+2. [長母音有哪些？跟短母音差在哪？5分鐘輕鬆練出漂亮發音！](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/68683/)
+3. [需要學KK音標嗎？自然發音+kk發音更正確！](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/33260/)
+4. [150+種動詞三態變化整理](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/81026/)
+5. [五大句型](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=139)
+6. [類副詞](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=139)
+
+#### 101 八大詞性(形式標籤)+五大句型+三大子句
+1. 名詞(Noun)
+2. 代名詞(Pronoun)
+3. 形容詞adj
+   + 只能修飾名詞，可前可後
+4. 動詞(Verb)
+   + 五大句型
+   + 1.S + V - 不及物動詞(vi,無受詞)
+   + 2.S + V + C - 連綴動詞(不完全不及物)
+     + 連綴動詞，又稱不完全不及物動詞
+       + 用來連接主詞與形容詞或名詞，作主詞補語修飾主詞。
+       + 常見連綴動詞有這些：
+         + be動詞：is、am、are、was、were、be、been…等。
+         + 感官相關：sound 聽起來、look 看起來、feel 感覺起來、smell 聞起來...等。
+         + 表達變化：become 變得、get 變成；變得、grow 成長、turn 使…變成
+         + 表仍然、維持：remain 仍然是、stay 繼續；保持、keep（使）保持。
+   + 3.S + V + O - 及物動詞(vt,有受詞)
+   + 4.S + V + O + C - 不完全及物動詞
+     + 因為及物需要有個受詞「O」，因為不完全還需要有個補語「C」，才能表達句子完整的意思。
+       + elect, keep, find, call, consider, believe, appoint, regard, name, deem, force, leave, suppose, prefer 經常需要受詞補語。
+         + The old lady left the windows open. 老太太讓窗子開著。
+         + left 是不完全及物動詞，除了需要受詞 the windows 外，還需要補語 open。
+   + 5.S + V + O + O - 授予動詞
+     + 它需要兩個受詞「O」，間接受詞「IO」（多用來表示人）通常在前，直接受詞 「DO」 （多用來表示物）通常在後。
+   + 6.其他動詞
+     + 感官動詞
+       + 看、聽、聞、感覺、嚐等感官動作的動詞詞彙
+       + 動詞後面所接的動詞必須使用原形動詞
+       + see,watch,look at,hear,listen to,feel,smell,notice,taste,appear
+       + 感官動詞沒有進行式
+     + 使役動詞:
+       + 表示讓某人做某事”的意思
+       + 動詞後面所接的動詞必須使用原形動詞
+       + mank,have,let,help
+   + 12主動態
+|        | 過去 | 現在 | 未來 |
+| 簡單式 | S + Ved | S + V(s/es) | S + will Vr/S + be going to Vr |
+| 完成式 | S + had pp. | S + have/ has + pp. | S + will have + pp.|
+| 進行式 | S + was/ were + Ving | S + is/ am/ are + Ving | S + will be + Ving/S + be going to + be Ving |
+| 完成進行式 | S + had been + Ving | S + have/ has + been + Ving | S + will have been + Ving| 
+   + 8大被動態
+5. 副詞adv
+   + 修飾名詞以外的詞性
+6. 介係詞(Preposition)
+7. 連接詞(Conjunction)
+8. 嘆詞(Interjection)
+9. 其他類型
+   + 虛主詞
+     + 概念&使用時機:避免主詞拖得太長，動詞太晚出現。
+   + 形容詞子句
+     + 子句功能
+       + 較大範圍 N. + adj - The women who is standing by the door
+       + 先行詞 + 關代
+       + 形容詞子句前方一定有名詞進行修飾
+       + 必須準守就近原則
+   + 名詞子句
+   + 類副詞(功能標籤)
+     + 類副詞（Adverbial）類似副詞（Adverb），但兩者有些差異。副詞修飾「形容詞」、「動詞」、或其他「副詞」，而類副詞則是具有副詞功能的字、片語、或子句，用來修飾「動詞」或「子句」。
+       + 名詞片語 He arrived this morning
+       + 介系詞片語 The train leaves in a few minutes
+       + 從屬子句 Sam worked very very hard until he had finished
+ 10. 三大子句
+     + 名詞子句
+     + 形容詞子句
+     + 副詞子句
+
+#### 102 詞性判斷-[網址](https://blog.wordup.com.tw/blog/2021/05/10/use-suffix-to-judge-parts-of-speech/)
+1. 動詞字尾詞性:連接於名詞或形容詞之後，表示「使…」、「做…」:
+   + -ize : 希臘文，socialize
+   + -ate : 拉丁文，integrate
+   + -fy : 拉丁文，justify
+   + -en : soften
+2. 名詞字尾詞性
+   + -ion、-tion、-ation : 拉丁，動詞之後，表示「狀態」、「動作」:action
+   + -ness : 形容詞、動詞之後，表示「狀態」、「行動」、「品質」: illness
+   + -ment : 拉丁:動詞之後 : movement
+   + -ship : 「狀態」、「身份」、「關係」:friendship
+   + -ity、-ty 「狀態」、「性質」:levity
+3. 形容詞字尾詞性
+   + -ible、-able : 動詞之後，表示「能夠…的」、「可以…的」:accessible
+   + -ful : 古英文，動詞之後，表示「充滿…的」、「常發生該動作的狀態」: successful
+   + -ive : 拉丁文，通常連接於動詞之後，偶爾連接於名詞之後，表示「有…特性」「有…傾向」:suggestive
+   + -less 「缺乏」、「沒有…的」:hopeless
+   + -ous 「充滿…特質的」:	glorious
+4. 副詞字尾詞性
+   + -ly 古英文，通常形容詞之後，少數動詞之後，表示「以…的方式」、「狀態」: purposely
+     + 名詞＋-ly」就不是副詞，通常為形容詞，如：costly（貴重的）、friendly（友善的）、lovely（可愛的）
+   + -way(s) 古英文，通常連接於動詞之後，表示「方向」、「位置」: anyway
+   + -ward(s)「朝…方向地」:backwards
+
+#### 103 聰明學習-[網址](https://blog.wordup.com.tw/blog/2023/04/18/toeic-gramma-example-answer-skills/)
+1. 詞性
+2. 時態
+   + 現在
+   + 進行
+   + 完成
+3. 分詞構句
+   + Ving 現在分詞和 Vp.p 過去分詞
+   + 由動詞轉變成形容詞
+   + 主動 (Ving)、被動 (Vp.p)
+4. 使役動詞 & 感官動詞
+
+
 ## 國中英文-[Ana](https://www.youtube.com/watch?v=shCGJTTS6Rc&list=PLHZvXHDTTwEwrQ_9Qf2jrj_Qz67SAZwhK)
 #### 20.單複數名詞
 1. 字尾s,ch,sh,x,o時，加es：class-classes
@@ -106,96 +217,7 @@
 2. much+不可數名詞
 3. a lot of +可數名詞 or 不可數名詞
 
-#### 101 派克
-1. 句型
-   + S + V - 不及物動詞
-   + S + V + C - 連綴動詞
-   + S + V + O - 及物動詞
-   + S + V + O + C - 不完全及物動詞
-   + S + V + O + O - 授予動詞
-2. 動詞v
-   + 及物動詞vt,有受詞
-   + 不及物動詞vi,無受詞
-   + 感官動詞
-     + 看、聽、聞、感覺、嚐等感官動作的動詞詞彙
-     + 動詞後面所接的動詞必須使用原形動詞
-     + see,watch,look at,hear,listen to,feel,smell,notice,taste,appear
-     + 感官動詞沒有進行式
-   + 使役動詞:
-     + 表示讓某人做某事”的意思
-     + 動詞後面所接的動詞必須使用原形動詞
-     + mank,have,let,help
-   + 連綴動詞，又稱不完全不及物動詞
-     + 用來連接主詞與形容詞或名詞，作主詞補語修飾主詞。
-     + 常見連綴動詞有這些：
-        + be動詞：is、am、are、was、were、be、been…等。
-        + 感官相關：sound 聽起來、look 看起來、feel 感覺起來、smell 聞起來...等。
-        + 表達變化：become 變得、get 變成；變得、grow 成長、turn 使…變成
-        + 表仍然、維持：remain 仍然是、stay 繼續；保持、keep（使）保持。
-     + 連綴動詞的用法
-       + 表達「變化」或「維持」的連綴動詞：S +連綴動詞+ adj./N
-         + After I saw his movie, the actor became my favorite movie star.
-         + 看過他的電影以後，這名演員就成為我最喜歡的電影明星了。
-       + 感官相關的連綴動詞「…起來」：S + 連綴動詞 + adj.
-         + Amy felt tired, so she went to bed early.
-         + Amy 覺得累了，所以她早早就睡了。
-       + 「…起來像…」：S + 連綴動詞 + like + N
-         + Both John and his sister look like their father.
-         + John 和他的妹妹看起來像他們的爸爸。
-      + 不完全及物動詞 因為及物需要有個受詞「O」，因為不完全還需要有個補語「C」，才能表達句子完整的意思。
-        + elect, keep, find, call, consider, believe, appoint, regard, name, deem, force, leave, suppose, prefer 經常需要受詞補語。
-          + The old lady left the windows open.
-          + 老太太讓窗子開著。
-          + left 是不完全及物動詞，除了需要受詞 the windows 外，還需要補語 open。
-3. 形容詞adj
-   + 只能修飾名詞，可前可後
-4. 副詞adv
-   + 修飾名詞以外的詞性
-5. 虛主詞
-   + 概念&使用時機:避免主詞拖得太長，動詞太晚出現。
-6. 形容詞子句
-   + 子句功能
-     + 較大範圍 N. + adj - The women who is standing by the door
-     + 先行詞 + 關代
-     + 形容詞子句前方一定有名詞進行修飾
-     + 必須準守就近原則
-7. 名詞子句
 
-#### 102 詞性判斷-[網址](https://blog.wordup.com.tw/blog/2021/05/10/use-suffix-to-judge-parts-of-speech/)
-1. 動詞字尾詞性:連接於名詞或形容詞之後，表示「使…」、「做…」:
-   + -ize : 希臘文，socialize
-   + -ate : 拉丁文，integrate
-   + -fy : 拉丁文，justify
-   + -en : soften
-2. 名詞字尾詞性
-   + -ion、-tion、-ation : 拉丁，動詞之後，表示「狀態」、「動作」:action
-   + -ness : 形容詞、動詞之後，表示「狀態」、「行動」、「品質」: illness
-   + -ment : 拉丁:動詞之後 : movement
-   + -ship : 「狀態」、「身份」、「關係」:friendship
-   + -ity、-ty 「狀態」、「性質」:levity
-3. 形容詞字尾詞性
-   + -ible、-able : 動詞之後，表示「能夠…的」、「可以…的」:accessible
-   + -ful : 古英文，動詞之後，表示「充滿…的」、「常發生該動作的狀態」: successful
-   + -ive : 拉丁文，通常連接於動詞之後，偶爾連接於名詞之後，表示「有…特性」「有…傾向」:suggestive
-   + -less 「缺乏」、「沒有…的」:hopeless
-   + -ous 「充滿…特質的」:	glorious
-4. 副詞字尾詞性
-   + -ly 古英文，通常形容詞之後，少數動詞之後，表示「以…的方式」、「狀態」: purposely
-     + 名詞＋-ly」就不是副詞，通常為形容詞，如：costly（貴重的）、friendly（友善的）、lovely（可愛的）
-   + -way(s) 古英文，通常連接於動詞之後，表示「方向」、「位置」: anyway
-   + -ward(s)「朝…方向地」:backwards
-
-#### 103 聰明學習-[網址](https://blog.wordup.com.tw/blog/2023/04/18/toeic-gramma-example-answer-skills/)
-1. 詞性
-2. 時態
-   + 現在
-   + 進行
-   + 完成
-3. 分詞構句
-   + Ving 現在分詞和 Vp.p 過去分詞
-   + 由動詞轉變成形容詞
-   + 主動 (Ving)、被動 (Vp.p)
-4. 使役動詞 & 感官動詞
 
 
 
