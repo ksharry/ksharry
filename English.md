@@ -48,8 +48,14 @@
 | 完成式 | S + had pp. | S + have/ has + pp. | S + will have + pp.|
 | 進行式 | S + was/ were + Ving | S + is/ am/ are + Ving | S + will be + Ving / S + be going to + be Ving |
 | 完成進行式 | S + had been + Ving | S + have/ has + been + Ving | S + will have been + Ving| 
-   + 8大被動態
+   + 8大被動態-[網址](https://www.sunlightenglish.com/article_detail/active-and-passive)
 
+||過去|現在|未來|
+|--|--|--|--|
+| 簡單式 | S + was/ were + pp. | S + is/ am/ are + pp. | S + will be + pp. / S + be going to + be + pp. |
+| 完成式 | S + had been + pp. | S + have/ has + been + pp. | S + will have been + pp.|
+| 進行式 | S + was/ were + being + pp. | S + is/ am/ are + being + pp. | X |
+| 完成進行式 | X | X | X| 
 
 5. 副詞adv
    + 修飾名詞以外的詞性
