@@ -32,7 +32,7 @@
    + 4.S + V + O + C - 不完全及物動詞
      + 因為及物需要有個受詞「O」，因為不完全還需要有個補語「C」，才能表達句子完整的意思。
        + keep, find, call, consider, believe, appoint, regard, name, deem, force, leave, suppose, prefer 經常需要受詞補語。
-         + he painted the car green. 老太太讓窗子開著。
+         + he painted the car green. 
          + left 是不完全及物動詞，除了需要受詞 the windows 外，還需要補語 open。
    + 5.S + V + O + O - 授予動詞
      + 它需要兩個受詞「O」，間接受詞「IO」（多用來表示人）通常在前，直接受詞 「DO」 （多用來表示物）通常在後。
