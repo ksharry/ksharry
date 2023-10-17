@@ -28,14 +28,15 @@
        + 表仍然、維持：remain 仍然是、stay 繼續；保持、keep（使）保持。
    + 3.S + V + O - 及物動詞(vt,有受詞)
      + like、love、hate、want、take、make、get、do
-     + i like baseketball
+     + I like basketball
    + 4.S + V + O + C - 不完全及物動詞
      + 因為及物需要有個受詞「O」，因為不完全還需要有個補語「C」，才能表達句子完整的意思。
        + keep, find, call, consider, believe, appoint, regard, name, deem, force, leave, suppose, prefer 經常需要受詞補語。
          + he painted the car green. 
    + 5.S + V + O + O - 授予動詞
      + 它需要兩個受詞「O」，間接受詞「IO」（多用來表示人）通常在前，直接受詞 「DO」 （多用來表示物）通常在後。
-     + i show you a vedio
+     + 常見的為Give、buy
+     + I will show you a video
    + 6.使役動詞:
        + let、make、have、get
        + 表示讓某人做某事”的意思
