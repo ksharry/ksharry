@@ -7,6 +7,7 @@
 6. [類副詞](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=139)
 7. [五大句型](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=139)
 8. [從屬子句](https://www.youtube.com/watch?v=5AC6wet6vB8&list=PLp2TEvhBsUYYoeKso4q2sQA9yuq29Ehxd&index=17)
+9. [不定詞與動名詞](https://english.cool/gerund-infinitive-verb/)
 
 #### 101 八大詞性(形式標籤)+五大句型+三大子句
 1. 名詞(Noun)
