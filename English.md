@@ -31,26 +31,17 @@
    + 3.S + V + O - 及物動詞(vt,有受詞)
      + like、love、hate、want、take、make、get、do
      + I like basketball
-   + 4.S + V + O + C - 不完全及物動詞
+   + 4.S + V + O + C - 不完全及物動詞-[網址](https://www.tkbgo.com.tw/zone/english/article/toArticleDetail.jsp?article_id=1197)
      + 因為及物需要有個受詞「O」，因為不完全還需要有個補語「C」，才能表達句子完整的意思。
-       + keep, find, call, consider, believe, appoint, regard, name, deem, force, leave, suppose, prefer 經常需要受詞補語。
-         + he painted the car green. 
+     + 常見的SVOC
+       + 使役動詞:let、make、have、get
+         + 動詞後面所接的動詞必須使用原形動詞
+       + 給命名:call、dub、name、entitle
+       + 其他:consider、keep、nominate、style、appoint
    + 5.S + V + O + O - 授予動詞
      + 它需要兩個受詞「O」，間接受詞「IO」（多用來表示人）通常在前，直接受詞 「DO」 （多用來表示物）通常在後。
-     + 常見的為Give、buy
+     + 常見的為Give、buy、show
      + I will show you a video
-   + 6.使役動詞:
-       + let、make、have、get
-       + 表示讓某人做某事”的意思
-       + 動詞後面所接的動詞必須使用原形動詞
-       + Get 雖然列在使役動詞之中，需用「to +原V」
-       + 主動
-         + S + CV(使役動詞) + O + Vr
-         + Jack let his friend borrow his car.
-       + 被動
-         + make/have/get + 受詞 + p.p
-         + let + 受詞 + be p.p
-         + I had my homework done
    + 7.祈使句
      + 命令、請求、勸告、禁止
      + 省略主詞
