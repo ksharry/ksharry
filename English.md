@@ -26,6 +26,7 @@
          + 感官動詞沒有進行式
        + 表達變化：become 變得、get 變成；變得、grow 成長、turn 使…變成
        + 表仍然、維持：remain 仍然是、stay 繼續；保持、keep（使）保持。
+       + 其他:enjoy + 動名詞
    + 3.S + V + O - 及物動詞(vt,有受詞)
      + like、love、hate、want、take、make、get、do
      + I like basketball
