@@ -153,6 +153,15 @@
    + 主動 (Ving)、被動 (Vp.p)
 4. 使役動詞 & 感官動詞
 
+#### 104 特別字
+1. last用法-[網址](https://barshai.org/word-dive/last/)
+   + 形容詞：最終的、最後的、上一次的、最近的
+   + 副詞：最後
+   + 不及物動詞：持續、持久、保持
+   + 代名詞：最後的一個(或一部分)
+   + 名詞：最後的一個(或一部分)
+2. 
+
 
 ## 國中英文-[Ana](https://www.youtube.com/watch?v=shCGJTTS6Rc&list=PLHZvXHDTTwEwrQ_9Qf2jrj_Qz67SAZwhK)
 #### 20.單複數名詞
