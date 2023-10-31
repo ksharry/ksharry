@@ -1,3 +1,15 @@
+## BBC Learning -[網址](https://www.bbc.co.uk/learningenglish/english/course)
+1. Vocabulary points
+   + -ee
+     + person who receives an action
+     + interviewee, trainee, employee, refugee, absentee
+   + -able/-ible
+     + Creates an adjective meaning that the subject can do something
+     + excitable, employable, pleasurable, enjoyable, loveable, readable
+   + Creates a noun that describes a quality or state.
+     + happiness, nervousness, politeness, sadness, sickness, kindness
+2. 
+
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
 2. [長母音有哪些？跟短母音差在哪？5分鐘輕鬆練出漂亮發音！](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/68683/)
