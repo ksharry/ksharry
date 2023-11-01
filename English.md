@@ -8,7 +8,17 @@
      + excitable, employable, pleasurable, enjoyable, loveable, readable
    + Creates a noun that describes a quality or state.
      + happiness, nervousness, politeness, sadness, sickness, kindness
-2. 
+2. present simple and present continuous
+   + Present Simple - Positive - subject + infinitive without 'to' / I wear a suit for work.
+   + Present Continuous - Positive - subject + am/is/are + verb-ing. / The phone's ringing
+   + Present Simple - Negative - subject + don’t (do not)  infinitive without 'to' / I don't eat meat
+   + Present Continuous - Negative - subject + am/is/are not + verb-ing / I'm not wearing a coat.
+   + Present Simple Wh- Questions - question word + do/does + subject + infinitive without 'to'. / Why do you want a new phone?
+   + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
+   + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
+   + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+3. 
+
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
@@ -68,6 +78,9 @@
        + might常用於過去式或假想推論。may為推斷或讓步。
        + shall表示應當/will表示未來式
        + must 責任(一定)、ought to 責任(應該)
+     + 時態
+       + 第三人稱用does,動詞加s
+       + 現在進行式是be動詞+ing
    + 12個主動態
    
 ||過去|現在|未來|
