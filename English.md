@@ -17,6 +17,9 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+21. Indirect questions
+    + Do you know if/whether + questions
+    + Do you know if this coffee is for everyone?
 23. first conditional
     + if plus present simple, with will plus an infinitive
     + If I lose my umbrella, I might buy another one.
