@@ -8,7 +8,7 @@
      + excitable, employable, pleasurable, enjoyable, loveable, readable
    + Creates a noun that describes a quality or state.
      + happiness, nervousness, politeness, sadness, sickness, kindness
-2. present simple and present continuous
+2. Present simple and present continuous
    + Present Simple - Positive - subject + infinitive without 'to' / I wear a suit for work.
    + Present Continuous - Positive - subject + am/is/are + verb-ing. / The phone's ringing
    + Present Simple - Negative - subject + don’t (do not)  infinitive without 'to' / I don't eat meat
@@ -20,10 +20,14 @@
 21. Indirect questions
     + Do you know if/whether + questions
     + Do you know if this coffee is for everyone?
-23. first conditional
+22. Making the passive voice
+    + subject + to be + past participle
+    + The internet is used by people all over the world.
+    + 沒有doer時可以使用。
+23. First conditional
     + if plus present simple, with will plus an infinitive
     + If I lose my umbrella, I might buy another one.
-24. talk unreal situations
+24. Talk about unreal situations
     + if + past simple, … would + infinitive
 
 
