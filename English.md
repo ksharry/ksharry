@@ -23,18 +23,18 @@
         + classic經典/classical古典
         + historic歷史性/historical與過去故事相關的人
         + economic貨幣金融相關的經濟/economical物超所值的經濟
-    + grammer
-      1. present simple
-         + usually, sometimes, always, and often
-      2. present continuous
-         + at the moment, this year, these days
-      3. present perfect
-         + ever and never. Have you ever been
-      4. past simple
-         + two days ago, yesterday,and last month
-      5. present perfect
-         + for and since
-      6. present continuous for future arrangements
+    + grammar
+      + present simple
+        + usually, sometimes, always, and often
+      + present continuous
+        + at the moment, this year, these days
+      + present perfect
+        + ever and never. Have you ever been
+      + past simple
+        + two days ago, yesterday,and last month
+      + present perfect
+        + for and since
+      + present continuous for future arrangements
          + going to with an infinitive verb  
 21. Indirect questions
     + Do you know if/whether + questions
