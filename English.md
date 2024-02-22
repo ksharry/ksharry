@@ -17,12 +17,22 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+19. Goldilocks 
+    + vocabulary-strong adjectives
+      + hilarious
+      + Wonderful! Fabulous! Amazing!
+      + absolutely terrible
+      + absolutely starving
+    + grammar
+      + too  : the dress is not right
+      + very : very with an adjective to make it stronger
+      + enough : right amount of something
+
 20. film
-    + vocabulary
-      + ic/ical-adjective
-        + classic經典/classical古典
-        + historic歷史性/historical與過去故事相關的人
-        + economic貨幣金融相關的經濟/economical物超所值的經濟
+    + vocabulary-ic/ical-adjective
+      + classic經典/classical古典
+      + historic歷史性/historical與過去故事相關的人
+      + economic貨幣金融相關的經濟/economical物超所值的經濟
     + grammar
       + present simple
         + usually, sometimes, always, and often
@@ -37,16 +47,27 @@
       + present continuous for future arrangements
          + going to with an infinitive verb  
 21. new job
-    + multi-word verbs
+    + vocabulary-multi-word verbs
       + rendezvous/meet up with
       + abandon/give up on
     + Indirect questions
       + Do you know if/whether + questions
       + Do you know if this coffee is for everyone?
-22. Making the passive voice
-    + subject + to be + past participle
-    + The internet is used by people all over the world.
-    + 沒有doer時可以使用。
+22. Beyond the planets
+    + vocabulary- onomatopoeia
+      + beep-receive text messages
+      + cars zooming
+      + cars zooming
+      + honking their horns
+      + music blaring
+      + machines buzzing and bleeping
+      + fridge humming
+      + rumble of the traffic outside
+      + rustle of the wind
+    + grammer-Making the passive voice
+      + subject + to be + past participle
+      + The internet is used by people all over the world.
+      + 沒有doer時可以使用。
 23. First conditional
     + if plus present simple, with will plus an infinitive
     + If I lose my umbrella, I might buy another one.
