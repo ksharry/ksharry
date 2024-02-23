@@ -17,6 +17,21 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+18. Subject-object questions
+    + vocabulary-ic/ different words for jobs
+      + actor - actress - actor
+      + waiter - waitress - waiter
+      + policeman - policewoman - police officer
+      + businessman - businesswoman -  businessperson
+      + chairman - chairwoman - chairperson / chair
+      + fireman -  firewoman - firefighter
+      + steward - stewardess - flight attendant
+    + grammar-subject questions
+      + question word + verb + object
+      + who, what, which and whose
+      + Who speaks Japanese? Kenji speaks Japanese.
+      + Whose and which ask about possession and choice
+      + Whose horse finished the race first?
 19. Goldilocks 
     + vocabulary-strong adjectives
       + hilarious
@@ -69,10 +84,35 @@
       + The internet is used by people all over the world.
       + 沒有doer時可以使用。
 23. First conditional
-    + if plus present simple, with will plus an infinitive
-    + If I lose my umbrella, I might buy another one.
-24. Talk about unreal situations
-    + if + past simple, … would + infinitive
+    + vocabulary- silent letters.
+      + k
+        + know
+        + knee
+        + knife
+      + w
+        + wrist
+        + write
+        + wrong
+      + b
+        + thumb
+        + climb
+        + lamb
+    + grammar - First conditional
+      + if plus present simple, with will plus an infinitive
+      + If I lose my umbrella, I might buy another one.
+24. Second conditional
+    + vocabulary - prefixes
+      + precooked/already cooked or partly cooked
+      + prepacked/wrapped, often with plastic or in a box, before being sold
+      + preschool/nursery school
+      + proactive/taking action in support of something
+      + probiotic/containing good bacteria that keeps you healthy
+      + recycle/to collect and change rubbish so that it can be used again; to use something again for a different purpose
+      + re-educate/to teach someone to think or behave in a different way
+      + reheat/heat again
+      + reuse
+    + grammar - Talk about unreal situations
+      + if + past simple, … would + infinitive
 
 
 ## 基礎的英文教學
