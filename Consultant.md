@@ -16,6 +16,7 @@
    + 檢驗，包裝。
 2. CAD/CAM 軟體:Altium Protel支援轉出Gerber/layout
 3. 電路板設計-[網址](https://www.youtube.com/watch?v=yPJ-4nEXykE&t=177s)
+4. 案例-[網址](https://oshwlab.com/kobebeefg/arduinopiano)
 
 24-2 SMT產業筆記
 1. 製程-[網址](https://www.youtube.com/watch?v=O8ZRwUXAAR8)
