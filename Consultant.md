@@ -1,4 +1,12 @@
-24-2 PCB產業筆記
+24-2-27 鐵人賽筆記-IT系統建置-[網址](https://ithelp.ithome.com.tw/articles/10202090)
+1. VMWARE建置(1)-vcenter
+2. VMWARE建置(2)-ESXI掛載storage
+3. VMWARE建置(3)-vMotion功能-資料移轉
+4. VMWARE建置(4)-vSphere HA功能-異常自動移轉。
+5. VMWARE建置(5)-vSphere FT功能-比FA提供更高的可用性和資料保護
+
+
+24-2-26 PCB產業筆記
 1. 製程-[網址](https://www.youtube.com/watch?v=FZForQYhdws)
    + 設計/拼板/裁切/定位/鑽孔/沉銅/
    + 覆蓋薄膜/曝光/清洗/:目的是將曝光照射，後續容易清洗。
