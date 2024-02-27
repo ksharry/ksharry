@@ -17,6 +17,28 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+16. Using 'may', 'might' and 'could'
+    + vocabulary- weather
+      + noun - verb - adjective
+      + rain - rain - rainy
+      + snow - snow - snowy
+      + wind - blow - windy
+      + sun - shine - sunny
+    + grammar - Might, may, could
+      + Positive form:could hit 
+      + Negative form:mightn’t affect 
+      + Questions: Might/May/Could + subject + infinitive without ‘to’
+      + We don’t use couldn’t : it's means impossible
+17. 'Used to' for past habit
+    + vocabulary- new words
+      + So here’s a selfie from a flashmob
+      + he decided to photobomb me
+      + the trolls said
+    + grammar- used to
+      +  talk about a past fact which is no longer true.
+      +  I used to work at a restaurant, but now I work at a library.
+      +  Used to can help us to compare activities in the past and now.
+      +  I used to work at a restaurant in the past, and now I work at a library.
 18. Subject-object questions
     + vocabulary-ic/ different words for jobs
       + actor - actress - actor
