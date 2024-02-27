@@ -16,6 +16,13 @@
 3. VMWARE建置(3)-vMotion功能-資料移轉
 4. VMWARE建置(4)-vSphere HA功能-異常自動移轉。
 5. VMWARE建置(5)-vSphere FT功能-比FA提供更高的可用性和資料保護
+6. VMWARE建置(5)-vSphere FT功能-DRS功能可以協助將各台ESXI主機使用到的效能做好平均分配
+7. VMWARE建置(7)-vSphere Replication功能-重要的虛擬機器完成自動化的異機或是異地備份
+8. VMWARE建置(8)-vSphere Site Recovery Manager
+9. VMWARE建置(9)-vSphere SRM 異地備援復原計畫
+10. VMWARE建置(10)-備份與還原VM-NAKIVO Backup
+11. VMWARE建置(11)-ESXI虛擬機器監控-VEEAM ONE FREE
+12. Vcenter External Platform Services Controller建置
 
 
 24-2-26 PCB產業筆記
