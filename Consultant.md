@@ -22,7 +22,7 @@
 9. VMWARE建置(9)-vSphere SRM 異地備援復原計畫
 10. VMWARE建置(10)-備份與還原VM-NAKIVO Backup
 11. VMWARE建置(11)-ESXI虛擬機器監控-VEEAM ONE FREE
-12. Vcenter External Platform Services Controller建置
+12. VMWARE建置(11)-Vcenter External Platform Services Controller建置
 
 
 24-2-26 PCB產業筆記
