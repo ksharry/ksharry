@@ -17,6 +17,29 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+16. Present perfect with just, already and yet
+    + vocabulary- compound nouns
+      + keyboard/laptop/software/postcard
+      + post office/
+      + daughters-in-law :not daughters-in-laws
+    + grammar - just, already and yet
+      + just and already mainly in positive sentence
+      +  just with the present perfect for something that happened only a short time ago
+      +  already with the present perfect when an action has happened before now
+      +  Both just and already come between the auxiliary and the past participle
+      +  yet with present perfect. We use yet to ask if something has happened before now 
+16. Relative clauses
+    + vocabulary- Homophones
+      +  flour/flower
+      +  Mail/male
+      +  right/write
+      +  peace/piece
+      +  tail/tale
+    + grammar - defining relative clauses.
+      +  give more information about
+      +  who for people
+      +  that and which for things
+      +  where for places
 16. Using 'may', 'might' and 'could'
     + vocabulary- weather
       + noun - verb - adjective
