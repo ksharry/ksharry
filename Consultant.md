@@ -23,7 +23,7 @@
 10. VMWARE建置(10)-備份與還原VM-NAKIVO Backup
 11. VMWARE建置(11)-ESXI虛擬機器監控-VEEAM ONE FREE
 12. VMWARE建置(12)-Vcenter External Platform Services Controller建置
-13. VMWARE建置(13)-跨Vcenter平台vMotion功能
+13. VMWARE建置(13)-跨Vcenter平台vMotion功能-異地轉移主機
 
 
 24-2-26 PCB產業筆記
