@@ -54,6 +54,7 @@
    + 打件機:電子零件上PCB版
    + 回焊:讓錫與腳位更充分連接。
    + AOI光學
+
 24-2 IC產業筆記
 1. 製程-[網址](https://www.youtube.com/watch?v=AHe_yVZW6no)
    + 設計程式，將程式轉為平面邏輯電路。
