@@ -17,7 +17,28 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
-16. Present perfect with just, already and yet
+12. Moving and Migration
+    + vocabulary-adjective order
+      + big, old, red, leather sofa
+      + size, age, colour, quality, and material type
+    + grammar - for and since with the present perfect tense.
+      + for = throughout (a period of time)
+      + since = from (an exact point in time) until now
+      + present perfect + since + past simple.
+13. Welcome to BBC Broadcasting House
+    + vocabulary- similar words
+      + 'tall' for things that are narrower than their vertical height
+      + 'high' for things that are wider than their vertical height
+      + big unformal
+      + We use 'large' when we want to sound more formal
+    + grammar-comparatives and superlatives
+      + adjective - comparative - superlative
+      + good - better (than) - (the) best
+      + well - better (than) - (the) best
+      + bad - worse (than) - (the) worst
+      + ill - worse (than) - (the) worst
+      + far - further (than) - (the) furthest 
+14. Present perfect with just, already and yet
     + vocabulary- compound nouns
       + keyboard/laptop/software/postcard
       + post office/
@@ -28,7 +49,7 @@
       +  already with the present perfect when an action has happened before now
       +  Both just and already come between the auxiliary and the past participle
       +  yet with present perfect. We use yet to ask if something has happened before now 
-16. Relative clauses
+15. Relative clauses
     + vocabulary- Homophones
       +  flour/flower
       +  Mail/male
