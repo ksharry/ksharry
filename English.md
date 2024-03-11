@@ -17,6 +17,43 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+10. Sunny's job hunt
+    + vocabulary- talking about jobs
+      + Job names ending in –er: presenter, teacher, train driver
+      + Job names ending in –or: actor, translator
+      + Job names ending in –ian: librarian, politician, optician
+      + Job names ending in –ist: journalist, receptionist, dentist
+    + grammar - verb patterns.
+      + Verbs followed by a gerund: admit, advise, consider, discuss
+      + Verbs followed by an infinitive: agree, appear, choose, decide
+      + Verbs followed by either, same meaning: begin, continue, hate, like
+      + Verbs followed by either, change in meaning: forget, regret, remember, stop
+
+11. The bucket list
+    + vocabulary- contractions
+      + Contractions with 'to be':
+      + Contractions with 'to have':
+      + Contractions with 'will': 
+    + grammar - present perfect tense.-use what happened
+      + subject + have/has + past participle.
+      + question word + have/has + subject + past participle?
+      + become   -   became   -   become
+      + eat   -   ate   -   eaten
+      + forget   -   forgot   -   forgotten
+      + give   -   gave   -   given
+      + go   -   went   -   gone / been
+      + have   -   had   -   had
+      + know   -   knew   -   known
+      + meet   -   met   -   met
+      + read   -   read   -   read
+      + ride   -   rode   -   ridden
+      + run   -   ran   -   run
+      + say   -   said   -   said
+      + see   -   saw   -   seen
+      + sell   -   sold   -   sold
+      + sing   -   sang   -   sung
+      + win   -   won   -   won
+      + write   -   wrote   -   written
 12. Moving and Migration
     + vocabulary-adjective order
       + big, old, red, leather sofa
