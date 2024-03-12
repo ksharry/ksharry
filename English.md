@@ -17,6 +17,29 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+8. Travel
+   + vocabulary- compound adjectives
+     + Compound adjectives with numbers:
+       + a 22-hour journey
+       + a nine-hour trip
+     + Compound adjectives with high and low:
+       + a low-cost airline
+       + a high-quality vehicle
+   + grammar - articles
+     + We use a or an
+     + We use the:
+     + Use zero article (-)
+       + 1) Before nouns that refer to things in general: I like (-) elephants.
+       + 2) Before the names of most countries, cities and continents: Saudi Arabia, Warsaw and Europe.
+       + 3) Before names of single mountains and lakes: Mount Kilimanjaro, Lake Titicaca.
+9. The big wedding
+   + vocabulary- word stress
+     + ge**o**graph , n
+     + geo**graph**ic, adj
+   + grammar - future.
+     + I’m meeting some friends for a drink tonight.
+     + I’m going to meet some friends for a drink tonight.
+     + gonna = going to
 10. Sunny's job hunt
     + vocabulary- talking about jobs
       + Job names ending in –er: presenter, teacher, train driver
