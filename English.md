@@ -17,15 +17,15 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
-7. Great achievers
+6. Great achievers
    + vocabulary- i-n-g and e-d
-     1) –ing adjectives
-     2) usually talk about the person, place or thing that is making us feel a certain way:
-     3) Yawn! This lecture is really boring!
-     4) –ed adjectives
-     5) talk about how we feel:
-     6) I’ve been listening to him for hours – I’m so bored.
-   + grammar -
+     + –ing adjectives: usually talk about the person, place or thing that is making us feel a certain way:
+     + Yawn! This lecture is really boring!
+     + –ed adjectives - talk about how we feel:
+     + I’ve been listening to him for hours – I’m so bored.
+   + grammar - past simple tense
+     + regular : start is started
+     + irregular go - went
 7. The Titanic
    + vocabulary- lexical sets
      + floods, water level, water, rainfall
