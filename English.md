@@ -17,6 +17,24 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+7. Great achievers
+   + vocabulary- i-n-g and e-d
+     1) –ing adjectives
+     2) usually talk about the person, place or thing that is making us feel a certain way:
+     3) Yawn! This lecture is really boring!
+     4) –ed adjectives
+     5) talk about how we feel:
+     6) I’ve been listening to him for hours – I’m so bored.
+   + grammar -
+7. The Titanic
+   + vocabulary- lexical sets
+     + floods, water level, water, rainfall
+     + flooded, soaked and waterlogged 
+     + swimming, sunbathing, and surfing.
+   + grammar -past simple and the past continuous
+     + The Titanic struck the iceberg at 11.40pm.
+     + subject + was/were + verb-ing.
+     + The passengers were having dinner at 9 o'clock
 8. Travel
    + vocabulary- compound adjectives
      + Compound adjectives with numbers:
