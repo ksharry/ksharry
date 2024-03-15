@@ -17,6 +17,32 @@
    + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
    + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
    + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+4. The daily grind
+   + vocabulary-  chunks of language.
+     + a full English breakfast-a cooked breakfast, usually with bacon, sausage, eggs, mushrooms, beans, tomatoes, toast and tea
+     + to take a long time - to happen slowly
+     + the rush hour - the period of time in the morning and evening when the traffic is very busy with people going to and from work
+     + a lot of fun - very enjoyable
+     + all over the world - everywhere around the earth
+     + (I'll be) back in a bit - (I'll) return soon
+   + grammar - adverbs of frequency.
+     + subject + adverb + main verb
+       + I always eat breakfast.
+     + subject + to be + adverb + main verb
+       + I am always late for work.
+     + subject + modal + adverb + main verb
+       + You should always wear a helmet.
+5. Christmas every day
+   + vocabulary-binomial
+     + aches and pains-general body pains that aren’t serious
+     + cheap and cheerful-simple, basic and often inexpensive
+     + short and sweet-quick and simple
+     + black and blue-sore and bruised
+     + quick and dirty-short, simple and basic
+     + bit by bit-gradually; a small amount at a time
+   + grammar - have to and must
+     + If you must do something, it is necessary for you to do it, but this is often your opinion or a rule that you have made yourself.
+     + If you have to do something, it is necessary for you to do it. It’s a law, an obligation or a fact.
 6. Great achievers
    + vocabulary- i-n-g and e-d
      + –ing adjectives: usually talk about the person, place or thing that is making us feel a certain way:
