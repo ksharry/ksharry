@@ -41,5 +41,5 @@
    + 滿 2 個月至未滿 2 歲的嬰幼兒，才能進行抽籤。
    + 嬰幼兒和父母雙方其一方須設籍該縣市，才能進行抽籤。
    + 父母兩人須提出工作證明。
-3. 托嬰媒合平台-[網址](https://ncwisweb.sfaa.gov.tw/home/index)https://ncwisweb.sfaa.gov.tw/home/index)
+3. 托嬰媒合平台-[網址](https://ncwisweb.sfaa.gov.tw/home/index)
    
