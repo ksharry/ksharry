@@ -1,22 +1,50 @@
 ## BBC Learning English -[網址](https://www.bbc.co.uk/learningenglish/english/course)
-1. Vocabulary points
-   + -ee
-     + person who receives an action
-     + interviewee, trainee, employee, refugee, absentee
-   + -able/-ible
-     + Creates an adjective meaning that the subject can do something
-     + excitable, employable, pleasurable, enjoyable, loveable, readable
-   + Creates a noun that describes a quality or state.
-     + happiness, nervousness, politeness, sadness, sickness, kindness
-2. Present simple and present continuous
-   + Present Simple - Positive - subject + infinitive without 'to' / I wear a suit for work.
-   + Present Continuous - Positive - subject + am/is/are + verb-ing. / The phone's ringing
-   + Present Simple - Negative - subject + don’t (do not)  infinitive without 'to' / I don't eat meat
-   + Present Continuous - Negative - subject + am/is/are not + verb-ing / I'm not wearing a coat.
-   + Present Simple Wh- Questions - question word + do/does + subject + infinitive without 'to'. / Why do you want a new phone?
-   + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
-   + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
-   + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+1. Nice to meet you!
+   + vocabulary-  suffixes
+     + -ee
+       + person who receives an action
+       + interviewee, trainee, employee, refugee, absentee
+     + -able/-ible
+       + Creates an adjective meaning that the subject can do something
+       + excitable, employable, pleasurable, enjoyable, loveable, readable
+     + Creates a noun that describes a quality or state.
+       + happiness, nervousness, politeness, sadness, sickness, kindness
+   + grammar - questions
+     +  Yes/no questions often begin with the verb to be - We ask these when we want a yes or no answer.
+     +  Wh-questions start with a question word, such as who, what, where, when, why or how.
+2. What to wear
+   + vocabulary-  about fashion
+     + scruffy - not neat or clean
+     + casual - informal and comfortable
+     + Smart - neat and stylish
+     + formal - serious, important clothes for special events, for example, weddings
+     + fashionable - new and popular
+   + grammar - Make the Present Simple and Present Continuous
+     + Present Simple - Positive - subject + infinitive without 'to' / I wear a suit for work.
+     + Present Continuous - Positive - subject + am/is/are + verb-ing. / The phone's ringing
+     + Present Simple - Negative - subject + don’t (do not)  infinitive without 'to' / I don't eat meat
+     + Present Continuous - Negative - subject + am/is/are not + verb-ing / I'm not wearing a coat.
+     + Present Simple Wh- Questions - question word + do/does + subject + infinitive without 'to'. / Why do you want a new phone?
+     + Present Simple Yes/No Questions - do/does + subject + infinitive without 'to'. / Does Mahmood read the news online every day?
+     + Present Continuous Wh- Questions - question word + am/is/are + subject + verb-ing. / What are you doing?
+     + Present Continuous Yes/No Questions - am/is/are + subject + verb-ing. / Is it raining?
+3. Like this, like that
+   + vocabulary-  prefixes.
+     + un-
+       + unhappy - not happy
+       + uncooked - not cooked
+       + unclean - not clean
+     + in-
+       + intolerable - cannot be tolerated or accepted
+       + inexpensive - not expensive; cheap
+       + inactive - not active
+    + dis-
+      + disagree - to not agree
+      + disgrace - something to be ashamed of
+      + disgusting - so horrible that you feel sick 
+   + grammar - like
+     + Like (as verb) - subject + like + object - James likes playing football.
+     + Like (as preposition) - what + to be + noun/noun phrase + like? - What was your weekend like?
 4. The daily grind
    + vocabulary-  chunks of language.
      + a full English breakfast-a cooked breakfast, usually with bacon, sausage, eggs, mushrooms, beans, tomatoes, toast and tea
