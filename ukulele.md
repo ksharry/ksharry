@@ -4,7 +4,7 @@
      + 
 2. 自學琴譜
    + 簡單
-     + baby shark-
+     + baby shark-[LINK](https://www.youtube.com/watch?v=1MCq7Y2WqA4)
    + 中等
    + 困難
 3. 
