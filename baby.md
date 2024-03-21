@@ -1,3 +1,6 @@
+## 嬰兒時期紀錄
+1. 敏感秩序期
+
 ## 補助相關
 1. 托育補助 vs 育兒津貼 -[網址](https://www.parenting.com.tw/article/5091069)-[網址2](https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%82%B2%E5%85%92%E6%B4%A5%E8%B2%BC-%E6%89%98%E8%82%B2%E8%A3%9C%E5%8A%A9-%E5%B0%B1%E5%AD%B8%E8%A3%9C%E5%8A%A9-%E7%94%9F%E8%82%B2%E7%8D%8E%E5%8B%B5%E9%87%91-%E7%94%9F%E8%82%B2%E7%B5%A6%E4%BB%98-%E8%A1%9B%E7%A6%8F%E9%83%A8-%E6%95%99%E8%82%B2%E9%83%A8-012800632.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFz7vfWMDd3GG90TdqzeIj8ZEeczUMucwveBnCuq2XXgA-6nWBpQ5zcYeI9PawznGXSZsWciRhm8fGQDnueYkwbcGiTJ63ozuF5U4c1Bvm5x1ZqWwTNvtnK1QHgSFiLXD_hkZo2XMKD7EXTJeJtSjsfNJxia3KxdaDjMtk65tTVN)
    + 衛福部育兒津貼
