@@ -36,12 +36,13 @@
    + 準公托
      + 貝兒-托育費	15903，餐點費 1000
 3. 公托須抽籤，每年 7 月會開放報名登記公托抽籤，之後進行統一抽籤。但各縣市托嬰中心規定不一，可參考部分縣市規定：
-4. 托嬰媒合平台-[網址](https://ncwisweb.sfaa.gov.tw/home/index)
-## 其他相關
-1. 女孩英文名 - [link](https://www.youtube.com/watch?v=SoVONl6WpZ8)
    + 一次可登記 2 家報名抽籤。
    + 滿 2 個月至未滿 2 歲的嬰幼兒，才能進行抽籤。
    + 嬰幼兒和父母雙方其一方須設籍該縣市，才能進行抽籤。
    + 父母兩人須提出工作證明。
+4. 托嬰媒合平台-[網址](https://ncwisweb.sfaa.gov.tw/home/index)
+## 其他相關
+1. 女孩英文名 - [link](https://www.youtube.com/watch?v=SoVONl6WpZ8)
+
 
    
