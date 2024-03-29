@@ -326,6 +326,10 @@
         +  common state verbs : have, own, belong, want, need, mean, cost, seem, appear and wish
       + action verbs :  we can use them in any tense we want
         + go, kick, watch, rain
+26. It must be love
+    + vocabulary - how to pronounce words that begin with the letter c.
+      + The letter c is pronounced /s/ before e, i or y.
+    + grammar - 
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
