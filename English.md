@@ -329,7 +329,11 @@
 26. It must be love
     + vocabulary - how to pronounce words that begin with the letter c.
       + The letter c is pronounced /s/ before e, i or y.
-    + grammar - 
+    + grammar -  ever and never with the present perfect
+      + We use the present perfect and the past simple to talk about events and things in our lives.
+      + We usually use the past simple for completed events or actions.
+      + We use the present perfect with never.
+      + Use ever with the present perfect to ask about a past experience
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
