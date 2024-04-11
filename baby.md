@@ -18,6 +18,11 @@
    + 重複累加堆疊的敘述方式-我的衣裳/We are Going on a Bear Hunt/If you give a mouse a cookie
    + 看得到小孩的真性情-小貓頭鷹
    + 幽默趣味-鱷魚怕怕牙醫怕怕/小象散步
+4. 書本
+   + 阿布與小樂-打針
+   + 查理與蘿拉
+   + 魔法親親
+   + 
 
 ## 嬰兒時期紀錄-[網址](https://poppy00630.pixnet.net/blog/post/321676128-%E8%92%99%E7%89%B9%E6%A2%AD%E5%88%A9%E8%82%B2%E5%85%92%E6%9B%B8%E8%AE%80%E6%9B%B8%E7%AD%86%E8%A8%98%26%E5%BF%83%E5%BE%97)
 1. 0~6歲 動作敏感期
