@@ -344,6 +344,10 @@
       + action (verb): deal with
       + effect (verb): bring about a change or influence
       + low-hanging fruit: the easiest targets
+    + vocabulary - Question tags
+      + positive/nagetive
+      + high / low tone
+
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
