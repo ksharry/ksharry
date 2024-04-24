@@ -334,7 +334,7 @@
       + We usually use the past simple for completed events or actions.
       + We use the present perfect with never.
       + Use ever with the present perfect to ask about a past experience
-26. Job hunting success... and failure
+27. Job hunting success... and failure
     + vocabulary - Business jargon
       + blue-sky thinking: having ideas which are very original, even if they are not practical or realistic
       + push the envelope: to  go even further than others and do things that might be new or even risky
@@ -344,10 +344,18 @@
       + action (verb): deal with
       + effect (verb): bring about a change or influence
       + low-hanging fruit: the easiest targets
-    + vocabulary - Question tags
+    + grammar - Question tags
       + positive/nagetive
       + high / low tone
-
+28. Speeding into the future
+    + vocabulary - British English and American English
+      + Am fall/Br autumn
+      + Am check/UK bill
+      + Am to mail/UK to post
+      + Am cookie/Br biscuit
+      + Am store/Br shop
+      + Am candy/Br sweets
+    + grammar - 
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
