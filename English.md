@@ -355,7 +355,11 @@
       + Am cookie/Br biscuit
       + Am store/Br shop
       + Am candy/Br sweets
-    + grammar - 
+    + grammar -
+      + Will + verb: we use this to make predictions about the future when we are certain that something is going to happen.
+      + Going to + verb: we use this when our prediction is based on a present situation or evidence.
+      + Might + verb: we use this to show future possibility.
+      + Be likely to + verb: we use this when we think something will happen, but we are not certain.
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
