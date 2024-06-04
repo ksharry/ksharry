@@ -360,6 +360,21 @@
       + Going to + verb: we use this when our prediction is based on a present situation or evidence.
       + Might + verb: we use this to show future possibility.
       + Be likely to + verb: we use this when we think something will happen, but we are not certain.
+29. Lost arts
+    + vocabulary - Pronouncing verbs and nouns
+      + a DEcrease (noun) - an amount by which something becomes smaller in size or number
+      + to deCREASE (verb) - make the amount or number of something smaller
+      + an INcrease (noun) - an amount by which something becomes bigger in size or number
+      + to inCREASE (verb) - make the amount or number of something bigger
+      + an INvite (noun) - an invitation, written or spoken, to do something such as attend an event
+      + to inVITE (verb) - ask someone to do something, such as attend an event
+      + a PREsent (noun) - something you give to someone on a special occasion like a birthday or wedding
+      + to preSENT (verb) - show, give or introduce
+      + a REcord (noun) - the best that has ever been done, often in sport
+      + to reCORD (verb) - store sounds, music or information so they can be used later
+    + grammar -
+      + Will 
+
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
