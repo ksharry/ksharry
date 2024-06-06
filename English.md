@@ -372,8 +372,14 @@
       + to preSENT (verb) - show, give or introduce
       + a REcord (noun) - the best that has ever been done, often in sport
       + to reCORD (verb) - store sounds, music or information so they can be used later
-    + grammar -
-      + Will 
+    + grammar - talk about habit
+      + Used to and would help us talk about things that happened in the past.
+      + Would + infinitive without 'to' - Habits
+        + When I had free time, I would practise guitar.
+      + Used to + infinitive without 'to'- Habits
+        + Isabel used to sing in a band.
+      + Used to + infinitive without 'to' - States
+        + Bob used to be much shorter.
 
 
 ## 基礎的英文教學
