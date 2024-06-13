@@ -382,6 +382,7 @@
         + Bob used to be much shorter.
 30. Tales of survival
     + vocabulary - Here are some of the words with double letters from the programme:
+      + short vowel - a, o, i, e, a, u
       + getting
       + brilliant
       + opportunity
