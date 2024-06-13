@@ -380,7 +380,20 @@
         + Isabel used to sing in a band.
       + Used to + infinitive without 'to' - States
         + Bob used to be much shorter.
-
+30. Tales of survival
+    + vocabulary - Here are some of the words with double letters from the programme:
+      + getting
+      + brilliant
+      + opportunity
+      + happy
+      + successful
+      + accommodation
+      + recommend
+      + apply
+      + possible
+      + disappointed
+      + addresses
+    + grammar 
 
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
