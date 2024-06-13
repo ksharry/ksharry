@@ -12,7 +12,3 @@
 <p align="left">
   <img align="left" alt="Harry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ksharry&show_icons=true&hide_border=true" />
 </p>
-
-[youtube]: https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA
-[linkedin]: https://www.linkedin.com/in/harry-chang-01b626107/
-[gmail]: mailto:ksharry1025@gmail.com
