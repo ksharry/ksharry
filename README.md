@@ -4,7 +4,9 @@
 [<img align="left" alt="Harry Chang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Harry Chang | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
-
+[youtube]: https://www.youtube.com/channel/UCFn6F8NOS8MTDP4ZSb_ppUA
+[linkedin]: https://www.linkedin.com/in/harry-chang-01b626107/
+[gmail]: mailto:ksharry1025@gmail.com
 
 
 ### Github Stats
