@@ -1,3 +1,7 @@
+## 開源不錯的文章
+1. 開源軟體商業模式-[網址](https://bensonleedotblog.wordpress.com/2019/02/25/%E9%96%8B%E6%BA%90%E8%BB%9F%E9%AB%94%E7%9A%84%E5%95%86%E6%A5%AD%E6%A8%A1%E5%BC%8F%E5%88%86%E6%9E%90-%E4%BA%8C/)
+2. 
+
 ## coscup-開源與職涯-[網址](https://www.youtube.com/watch?v=Ccy8FZVIY-A&list=PLqfib4St70XMaacH_XSSQ899x_QmHSDUM&index=7)
 1. 開源力量：從 Mozilla 到 AWS、從半導體到傳統產業，我的職涯探索之旅
    + how can : class
