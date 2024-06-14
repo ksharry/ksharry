@@ -1,4 +1,4 @@
-24-2-27 售前心得
+## 24-2-27 售前心得
 1. 會議開始:
    + 了解客戶接觸到ODOO原因
    + 了解客戶舊系統
@@ -12,23 +12,7 @@
    + 需要先跟客戶溝通上課就好，或要完整的專案服務。
 4. 
 
-24-2-27 鐵人賽筆記-IT系統建置-[網址](https://ithelp.ithome.com.tw/articles/10202090)
-1. VMWARE建置(1)-vcenter
-2. VMWARE建置(2)-ESXI掛載storage
-3. VMWARE建置(3)-vMotion功能-資料移轉
-4. VMWARE建置(4)-vSphere HA功能-異常自動移轉。
-5. VMWARE建置(5)-vSphere FT功能-比FA提供更高的可用性和資料保護
-6. VMWARE建置(5)-vSphere FT功能-DRS功能可以協助將各台ESXI主機使用到的效能做好平均分配
-7. VMWARE建置(7)-vSphere Replication功能-重要的虛擬機器完成自動化的異機或是異地備份
-8. VMWARE建置(8)-vSphere Site Recovery Manager
-9. VMWARE建置(9)-vSphere SRM 異地備援復原計畫
-10. VMWARE建置(10)-備份與還原VM-NAKIVO Backup
-11. VMWARE建置(11)-ESXI虛擬機器監控-VEEAM ONE FREE
-12. VMWARE建置(12)-Vcenter External Platform Services Controller建置
-13. VMWARE建置(13)-跨Vcenter平台vMotion功能-異地轉移主機
-
-
-24-2-26 PCB產業筆記
+## 24-2-26 PCB產業筆記
 1. 製程-[網址](https://www.youtube.com/watch?v=FZForQYhdws)
    + 設計/拼板/裁切/定位/鑽孔/沉銅/
    + 覆蓋薄膜/曝光/清洗/:目的是將曝光照射，後續容易清洗。
@@ -48,14 +32,14 @@
 3. 電路板設計-[網址](https://www.youtube.com/watch?v=yPJ-4nEXykE&t=177s)
 4. 案例-[網址](https://oshwlab.com/kobebeefg/arduinopiano)
 
-24-2 SMT產業筆記
+## 24-2 SMT產業筆記
 1. 製程-[網址](https://www.youtube.com/watch?v=O8ZRwUXAAR8)
    + 印刷錫膏。
    + 打件機:電子零件上PCB版
    + 回焊:讓錫與腳位更充分連接。
    + AOI光學
 
-24-2 IC產業筆記
+## 24-2 IC產業筆記
 1. 製程-[網址](https://www.youtube.com/watch?v=AHe_yVZW6no)
    + 設計程式，將程式轉為平面邏輯電路。
    + 轉成立體迷宮電路
@@ -65,7 +49,7 @@
    + 焊上線路，裝上保護殼，IC完成。
 2. 電子電路-[網址](https://www.youtube.com/watch?v=V3A0fxmhYrg)
 
-24-2 BOM筆記
+## 24-2 BOM筆記
 1. ECR:各單位申請，紀錄範圍、對策、方案。
 
 24-1 tiptoop合併報表設定筆記
@@ -82,7 +66,7 @@
    + 資產負債與業主權益的換算。
 
 
-24-1 tiptoop合併報表流程筆記
+## 24-1 tiptoop合併報表流程筆記
 1. aglt001分兩段沖銷累換
    + 收入費用與本期損益BS比較，數字小。
    + 資產的總計與負債及業主權益總計的比較，數字大。
@@ -100,7 +84,7 @@
    + 股東權益只剩下母公司的
    + 資產負債有沒有平。
 
-23-05
+## 23-05 顧問
 1. 麥肯錫管理顧問在做什麼-Ricky-[網址](https://www.youtube.com/watch?v=l-OxhtFG2tU&list=PLvC10rAwpLzskly_CFnUZhj6Cuv_knVyx)
    + 面試的內容-[官網](https://www.mckinsey.com/careers/interviewing)
      + Personal Impact
@@ -213,4 +197,4 @@
     + 福特是家族企業讓賢的最好例子，分家產也會有問題。
     + 壯士斷臂 吳王請要離刺殺的故事。意思是要捨棄自生利益完成大體的事。柯達是好的例子
     + 狼的基因，不遵守規矩且有霸氣的完成目標
-14. 
+   
