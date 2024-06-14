@@ -394,8 +394,20 @@
       + possible
       + disappointed
       + addresses
-    + grammar 
+    + grammar - modals of ability
+      + We use can and be able to with infinitive verbs to talk about ability in the present.
+        + An elephant can carry up to 9,000kg.
+        + They are able to walk for up to 50 miles a day.
+      + For ability in the past, use could and was/were able to.
+        + I could see the fish in the water, but I couldn't catch them.
+        + They weren't able to survive long without food.
+      + For single events in the past, use be able to for positive sentences.
+        + We were able to take a photograph of the lions (NOT: We could take a photograph of the lions)
+      + For single events, use be able to or could / couldn't for negatives and questions.
+        + We weren't able to see the elephants today. We couldn't take any photographs. Could you see any giraffes?
+      + Use manage to when something is very difficult to do or very successful:
 
+They managed to travel across the Atlantic Ocean.
 ## 基礎的英文教學
 1. [搞懂英文母音、子音規則，穩扎英文發音基礎](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/5801/)
 2. [長母音有哪些？跟短母音差在哪？5分鐘輕鬆練出漂亮發音！](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/68683/)
