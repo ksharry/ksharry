@@ -28,7 +28,22 @@
       + 資訊是最大的關鍵
       + 整合内外資訊，形成策略方向
       + 策略分析工具
-3. 待辦-研究Redhat成功
+   3. 核心思想決定未來走向
+   4. 設定明確的策略目標
+      + 設定SMART策略目標
+   5. 辨識商業機會或營運問題
+   6. 引出真正的需求
+      + 腦力激蕩 (Brainstorming)
+      + 促進工作坊 (Facilitated Workshops)
+      + 焦點團體 (Focus Groups)
+      + 雛形法 (Prototyping)
+      + 問卷調查 (Questionnaires and Surveys)
+      + 人物誌 (Persona)
+      + 訪談 (Interviews)
+   7. 找出目標與現況的落差
+   8. 確認最終方案
+   9. 完整的商業企劃
+4. 待辦-研究Redhat成功
 
 ## 常見的分析方式
 1. SWOT分析：SWOT分析是一種從自身優勢、劣勢、機會和威脅四個方面進行分析的方法。
